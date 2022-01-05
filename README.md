@@ -1,7 +1,7 @@
 # Building Modern Search with Yext - Part 1
 
 This repo is referenced by this guide that explains how to quickly build a Search Experience with Yext. It is the React frontend for a custom Answers backend. The project
-was cloned from the (Yext React Site Search Starter)[https://github.com/yext/react-site-search-starter]. Check out its README to learn more.
+was cloned from the [Yext React Site Search Starter](https://github.com/yext/react-site-search-starter). Check out its README to learn more.
 
 ### Using this Repo
 To utilze this code, you would need to be sure to build the backend described in the guide. If you have copied the configuration, replace the ```apiKey``` in ```answersHeadlessConfig.ts``` with your Answers API Key. 
@@ -15,7 +15,7 @@ import { AnswersHeadlessProvider } from '@yext/answers-headless-react';
 type HeadlessProviderProps = Parameters<typeof AnswersHeadlessProvider>[0];
 
 export const answersHeadlessConfig: HeadlessProviderProps = {
-  apiKey: 'MY_ANSWERS_API_KEY',
+  apiKey: process.env.REACT_APP_ANSWERS_API_KEY as string,
   experienceKey: 'movies-search',
   locale: 'en',
   sessionTrackingEnabled: true,
