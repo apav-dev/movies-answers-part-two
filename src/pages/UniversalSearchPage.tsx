@@ -10,7 +10,7 @@ const universalResultsFilterConfig = {
 
 export default function UniversalSearchPage(props: { universalResultsConfig: UniversalResultsConfig}) {
   const { universalResultsConfig } = props;
-  usePageSetupEffect();
+  // usePageSetupEffect();
 
   return (
     <div>
