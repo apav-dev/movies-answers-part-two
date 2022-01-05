@@ -4,7 +4,7 @@ This repo is referenced by this guide that explains how to quickly build a Searc
 was cloned from the (Yext React Site Search Starter)[https://github.com/yext/react-site-search-starter]. Check out its README to learn more.
 
 ### Using this Repo
-To utilze this code, you would need to be sure to build the backend described in the guide. If you have copied the configuration, replace the ```apiKey``` in ```answersHeadlessConfig.ts''' with your Answers API Key. 
+To utilze this code, you would need to be sure to build the backend described in the guide. If you have copied the configuration, replace the ```apiKey``` in ```answersHeadlessConfig.ts``` with your Answers API Key. 
 It's reccomended to store your API Key in a ```.env``` file that is added to ```.gitignore``` to avoid publishing your API Key to Github. 
 NOTE: If you are using a Yext production account rather than a sandbox account, remove the ```endpoints``` field.
 
