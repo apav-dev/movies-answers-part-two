@@ -3,7 +3,7 @@ import { AnswersHeadlessProvider } from '@yext/answers-headless-react';
 type HeadlessProviderProps = Parameters<typeof AnswersHeadlessProvider>[0];
 
 export const answersHeadlessConfig: HeadlessProviderProps = {
-  apiKey: 'cb8b942209662817e117b4d037e85f6c',
+  apiKey: 'cf0afad7b19442d8d26db9bc88fa386b',
   experienceKey: 'movies-search',
   locale: 'en',
   sessionTrackingEnabled: true,
