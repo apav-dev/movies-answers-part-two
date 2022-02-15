@@ -7,6 +7,9 @@ module.exports = {
     extend: {
       fontFamily: {
         display: [ 'Bebas Neue', ...defaultTheme.fontFamily.sans]
+      },
+      colors: {
+        'slate': '#64748b'
       }
     },
   },
