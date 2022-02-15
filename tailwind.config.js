@@ -9,7 +9,8 @@ module.exports = {
         display: [ 'Bebas Neue', ...defaultTheme.fontFamily.sans]
       },
       colors: {
-        'slate': '#64748b'
+        'slate': '#64748b',
+        'light-gray': '#CAD3E3'
       }
     },
   },

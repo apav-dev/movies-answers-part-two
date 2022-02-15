@@ -21,16 +21,28 @@ const navLinks = [
  */
 const StandardLayout: LayoutComponent = ({ page }) => {
   const isVertical = useAnswersState(s => s.meta.searchType) === SearchTypeEnum.Vertical;
+
   return (
     <>
-      {isVertical
-        ? <SearchBar
-          placeholder='Search...'
-          screenReaderInstructionsId='SearchBar__srInstructions'
-        />
+      {/* {isVertical
+        ? 
         : <SampleVisualSearchBar />
-      }
-      <Navigation links={navLinks} />
+      } */}
+      <SearchBar
+        placeholder='Search...'
+        screenReaderInstructionsId='SearchBar__srInstructions'
+        customCssClasses={{ 
+          container: 'h-12 font-display text-xl w-2/5', 
+          logoContainer: 'hidden', 
+          inputContainer: 'inline-flex items-center justify-between w-full mt-1',
+          inputDropdownContainer: 'bg-white border rounded-lg border-gray-200 w-full overflow-hidden text-black',
+        }}
+        cssCompositionMethod='assign'
+      />
+      <Navigation 
+        links={navLinks} 
+        // cssCompositionMethod='assign'
+      />
       {page}
     </>
   )

@@ -217,6 +217,9 @@ export default function InputDropdown({
   return (
     <div className={inputDropdownContainerCssClasses} ref={inputDropdownRef} onBlur={handleBlur}>
       <div className={cssClasses?.inputContainer}>
+        <div className={cssClasses.searchButtonContainer}>
+          {renderSearchButton()}
+        </div>
         <div className={cssClasses.logoContainer}>
           {renderLogo()}
         </div>
@@ -246,9 +249,7 @@ export default function InputDropdown({
           aria-describedby={screenReaderInstructionsId}
           aria-activedescendant={focusedOptionId}
         />
-        <div className={cssClasses.searchButtonContainer}>
-          {renderSearchButton()}
-        </div>
+
       </div>
       <ScreenReader
         instructionsId={screenReaderInstructionsId}

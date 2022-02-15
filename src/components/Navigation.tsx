@@ -17,11 +17,11 @@ interface NavigationCssClasses {
 }
 
 const builtInCssClasses: NavigationCssClasses = {
-  nav: 'border-b border-gray-200 text-gray-600 flex space-x-6 font-medium mb-6',
-  navLink: 'whitespace-nowrap py-4 px-1 font-medium text-md border-b-2 border-opacity-0 hover:border-gray-300',
-  activeNavLink: 'text-blue-600 border-blue-600 border-b-2 border-opacity-100 hover:border-blue-600',
+  nav: 'border-b border-t border-gray-200 text-gray-600 flex space-x-6 font-medium my-2 text-lg font-display px-4',
+  navLink: 'whitespace-nowrap py-1 px-1 font-medium text-md border-b-2 border-opacity-0 hover:bg-light-gray hover:text-slate text-white',
+  activeNavLink: 'text-blue-400',
   menuButtonContainer: 'relative flex flex-grow justify-end mr-4',
-  menuButton: 'flex flex-row items-center font-medium text-md px-1 border-b-2 border-opacity-0 hover:border-gray-300',
+  menuButton: 'flex flex-row items-center font-medium text-md px-1 border-b-2 border-opacity-0 ',
   menuButton___menuOpen: 'bg-gray-200',
   menuContainer: 'absolute flex flex-col bg-white border top-14 mt-0.5'
 }
