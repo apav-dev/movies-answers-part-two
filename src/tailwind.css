@@ -3,6 +3,11 @@
   src: url(./fonts/BebasNeue-Regular.ttf);
 }
 
+@font-face {
+  font-family: "Roberto Serif";
+  src: url(./fonts/RobotoSerif-VariableFont.ttf);
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -10,5 +15,8 @@
 @layer base {
   body {
     @apply bg-slate;
+  }
+  li {
+    @apply inline-block;
   }
 }

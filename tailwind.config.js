@@ -6,16 +6,22 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        display: [ 'Bebas Neue', ...defaultTheme.fontFamily.sans]
+        display: [ 'Bebas Neue', ...defaultTheme.fontFamily.sans],
+        body: ['Roberto Serif', ...defaultTheme.fontFamily.sans]
       },
       colors: {
         'slate': '#64748b',
-        'light-gray': '#CAD3E3'
+        'light-gray': '#CAD3E3',
+      },
+      dropShadow: {
+        'xl': '0 0 25px rgba(0, 0, 0, 0.6)'
       }
     },
   },
   variants: {
-    extend: {},
+    extend: {
+      dropShadow: ['hover']
+    },
   },
   plugins: [ 
     require("@tailwindcss/forms")({

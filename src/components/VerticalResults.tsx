@@ -3,12 +3,14 @@ import { useAnswersState, Result } from '@yext/answers-headless-react';
 import classNames from 'classnames';
 import { CompositionMethod, useComposedCssClasses } from '../hooks/useComposedCssClasses';
 
-interface VerticalResultsCssClasses {
-  results___loading?: string
+export interface VerticalResultsCssClasses {
+  results___loading?: string,
+  container?: string
 }
 
 const builtInCssClasses: VerticalResultsCssClasses = {
-  results___loading: 'opacity-50'
+  results___loading: 'opacity-50',
+  container: ''
 }
 
 interface VerticalResultsDisplayProps {
@@ -35,7 +37,7 @@ export function VerticalResultsDisplay(props: VerticalResultsDisplayProps): JSX.
   }
 
   const resultsClassNames = cssClasses.results___loading
-    ? classNames({ [cssClasses.results___loading]: isLoading })
+    ? classNames({ [cssClasses.results___loading]: isLoading }, cssClasses.container)
     : '';
 
   return (
