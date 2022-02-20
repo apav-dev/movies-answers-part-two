@@ -103,6 +103,11 @@ function renderVerticalSections(props: VerticalSectionsProps): JSX.Element {
             resultsCountConfig,
             appliedFiltersConfig,
             verticalKey,
+            customCssClasses: {
+              sectionHeaderIconContainer: 'hidden',
+              sectionHeaderLabel: "font-semibold font-display text-white text-3xl pl-3"
+            },
+            cssCompositionMethod: 'assign',
             viewAllButton: verticalConfig.viewAllButton 
           }}/>}
           cardConfig={verticalConfig.cardConfig}
