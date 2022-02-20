@@ -58,7 +58,11 @@ export default function SectionHeader(props: SectionHeaderConfig): JSX.Element {
            <ResultsCountDisplay resultsLength={resultsCountConfig.resultsLength} resultsCount={resultsCountConfig.resultsCount} />} */}
       {appliedFiltersConfig &&
         <div className={cssClasses.appliedFiltersContainer}>
-          <AppliedFiltersDisplay displayableFilters={displayableFilters}/>
+          <AppliedFiltersDisplay 
+            displayableFilters={displayableFilters} 
+            customCssClasses={appliedFiltersConfig?.customCssClasses} 
+            cssCompositionMethod="assign"
+          />
         </div>}
       {viewAllButton && 
         <div className={cssClasses.viewMoreContainer}>
