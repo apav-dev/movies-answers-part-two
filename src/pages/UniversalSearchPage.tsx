@@ -25,16 +25,10 @@ export default function UniversalSearchPage(props: { universalResultsConfig: Uni
   return (
     <div>
       <SpellCheck />
-      <DirectAnswer 
-        customCssClasses={directAnswerCssStyles}
-        cssCompositionMethod='assign'/>
+      <DirectAnswer />
       <UniversalResults
         appliedFiltersConfig={{
           show: true,
-          customCssClasses: {
-            nlpFilter: 'border rounded-3xl px-3 py-1.5 text-sm font-medium italic text-white mr-2 font-display',
-          },
-          cssCompositionMethod: "assign",
         }}
         verticalConfigs={universalResultsConfig}
         cssCompositionMethod="assign"

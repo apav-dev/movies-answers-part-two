@@ -23,21 +23,6 @@ export function ActorCard(props: CardProps): JSX.Element {
   const actor = props.result.rawData as unknown as Actor;
 
   return (
-    <div className={actorCardCssStyles.outerContainer} >
-      <div 
-        className={actorCardCssStyles.actorHeadshot} 
-        style={{ backgroundImage: `url(${actor.primaryPhoto?.image.url})` }}>
-      </div>
-      <div className={actorCardCssStyles.innerContainer}>
-        <div className={actorCardCssStyles.actorInfoContainer} >
-          <span className={actorCardCssStyles.actorNameText}>
-            {actor.name}
-          </span>
-          <div className={actorCardCssStyles.actorBioText}>
-            {actor.c_bio}
-          </div>
-        </div>
-      </div>
-    </div>
+    <div></div>
   )
 }
