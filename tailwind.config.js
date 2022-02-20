@@ -10,11 +10,15 @@ module.exports = {
         body: ['Roberto Serif', ...defaultTheme.fontFamily.sans]
       },
       colors: {
-        'slate': '#64748b',
-        'light-gray': '#CAD3E3',
+        'slate': '#0f2027',
       },
-      dropShadow: {
-        'xl': '0 0 25px rgba(0, 0, 0, 0.6)'
+      boxShadow: {
+        'movie': 'rgba(243, 244, 246, 0.35) 0px 5px 15px',
+        'headshot': 'rgb(38, 57, 77) 0px 20px 30px -10px',
+        'bio': 'rgba(0, 0, 0, 0.56) 0px 22px 70px 4px'
+      },
+      minWidth: {
+        '1/3': '33.3333333%'
       }
     },
   },
