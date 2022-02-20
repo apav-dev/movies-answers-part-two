@@ -12,6 +12,12 @@ import usePageSetupEffect from '../hooks/usePageSetupEffect';
 //   cssCompositionMethod: "assign",
 // };
 
+const directAnswerCssStyles = {
+  container: 'p-4 border rounded-lg shadow-movie bg-gray-200 w-1/3', 
+  fieldValueTitle: 'mb-4 text-gray-700 font-body', 
+  fieldValueDescription: 'font-bold text-xl text-gray-800 font-display text-3xl',
+}
+
 export default function UniversalSearchPage(props: { universalResultsConfig: UniversalResultsConfig}) {
   const { universalResultsConfig } = props;
   usePageSetupEffect();
@@ -20,11 +26,7 @@ export default function UniversalSearchPage(props: { universalResultsConfig: Uni
     <div>
       <SpellCheck />
       <DirectAnswer 
-        customCssClasses={{ 
-          container: 'p-4 border rounded-lg shadow-movie bg-gray-200 w-1/3', 
-          fieldValueTitle: 'mb-4 text-gray-700 font-body', 
-          fieldValueDescription: 'font-bold text-xl text-gray-800 font-display text-3xl',
-        }}
+        customCssClasses={directAnswerCssStyles}
         cssCompositionMethod='assign'/>
       <UniversalResults
         appliedFiltersConfig={{

@@ -16,6 +16,13 @@ const navLinks = [
   }))
 ]
 
+const searchBarCssStyles = {
+  container: 'h-12 font-display text-xl w-2/5', 
+  logoContainer: 'hidden', 
+  inputContainer: 'inline-flex items-center justify-between w-full mt-1',
+  inputDropdownContainer: 'bg-white border rounded-lg border-gray-200 w-full overflow-hidden text-black',
+}
+
 /**
  * A LayoutComponent that provides a SearchBar and Navigation tabs to a given page.
  */
@@ -31,12 +38,7 @@ const StandardLayout: LayoutComponent = ({ page }) => {
       <SearchBar
         placeholder='Search...'
         screenReaderInstructionsId='SearchBar__srInstructions'
-        customCssClasses={{ 
-          container: 'h-12 font-display text-xl w-2/5', 
-          logoContainer: 'hidden', 
-          inputContainer: 'inline-flex items-center justify-between w-full mt-1',
-          inputDropdownContainer: 'bg-white border rounded-lg border-gray-200 w-full overflow-hidden text-black',
-        }}
+        customCssClasses={searchBarCssStyles}
         cssCompositionMethod='assign'
       />
       {/* <Navigation links={navLinks} */}
