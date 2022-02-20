@@ -39,10 +39,7 @@ const StandardLayout: LayoutComponent = ({ page }) => {
         }}
         cssCompositionMethod='assign'
       />
-      <Navigation 
-        links={navLinks} 
-        // cssCompositionMethod='assign'
-      />
+      {/* <Navigation links={navLinks} */}
       {page}
     </>
   )
