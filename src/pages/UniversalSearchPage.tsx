@@ -30,7 +30,7 @@ export default function UniversalSearchPage(props: { universalResultsConfig: Uni
         appliedFiltersConfig={{
           show: true,
           customCssClasses: {
-            nlpFilter: 'border rounded-3xl px-3 py-1.5 text-sm font-medium italic text-gray-800 mr-2',
+            nlpFilter: 'border rounded-3xl px-3 py-1.5 text-sm font-medium italic text-white mr-2 font-display',
           },
           cssCompositionMethod: "assign",
         }}
