@@ -13,13 +13,7 @@ const MoviesSection: SectionComponent = function (props: SectionConfig): JSX.Ele
   
   return (
     <section>
-      {header}
-      <VerticalResultsDisplay
-        results={results}
-        CardComponent={cardComponent}
-        {...(cardConfig && { cardConfig })}
-        customCssClasses={{ container: 'grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-8' }}
-      />
+
     </section>
   );
 }

@@ -25,54 +25,5 @@ const movieCardCssStyles = {
 export function MovieCard(props: CardProps): JSX.Element {
   const movie = props.result.rawData as unknown as Movie;
 
-  function timeConvert(runtime?: string) {
-    if(!runtime){
-      return null;
-    }
-
-    const runtimeMins = parseInt(runtime);
-
-    if(!runtimeMins){
-      return null;
-    }
-    
-    const hours = (runtimeMins / 60);
-    const rhours = Math.floor(hours);
-    const minutes = (hours - rhours) * 60;
-    const rminutes = Math.round(minutes);
-    return rhours + " h " + rminutes + " m";
-  }
-
-  function renderMovieInfo() {
-    return (
-      <ul className={movieCardCssStyles.movieInfoList}>
-        <li>{movie.c_mpaRating ? movie.c_mpaRating :  ''}</li>
-        <li>/</li>
-        <li>{timeConvert(movie.c_runtime)}</li>
-        <li>/</li>
-        <li>{movie.c_genres?.[0] ?? ''}</li>
-      </ul>
-    )
-  }
-
-  function renderDescription() {
-    return (
-      <div className={movieCardCssStyles.descriptionContainer}>
-        <span className={movieCardCssStyles.headingText}>Description:</span>
-        <div className={movieCardCssStyles.descriptionText}>{movie.description}</div>
-      </div>
-    )
-  }
-
-  return (
-    <div className={movieCardCssStyles.container} >
-      <div className={movieCardCssStyles.textPanel}></div>
-      <div className={movieCardCssStyles.moviePosterContainer} style={{ backgroundImage: `url(${movie.c_poster?.url})` }}/>
-      <div className={movieCardCssStyles.textContainer}>
-        <span className={movieCardCssStyles.headingText}>{movie.name}</span>
-        {renderMovieInfo()}
-        {renderDescription()}
-      </div>
-    </div>
-  )
+  return ( <div></div>)
 }
