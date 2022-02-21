@@ -7,8 +7,8 @@ import { routeConfig } from './config/routeConfig';
 export default function App() {
   return (
     <AnswersHeadlessProvider {...answersHeadlessConfig}>
-      <div className='flex py-4 px-6'>
-        <div className='w-full'>
+      <div className='flex justify-center px-4 py-6'>
+        <div className='w-full max-w-5xl'>
           <PageRouter
             Layout={StandardLayout}
             routes={routeConfig}

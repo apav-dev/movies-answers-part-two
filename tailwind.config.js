@@ -22,11 +22,7 @@ module.exports = {
       }
     },
   },
-  variants: {
-    extend: {
-      dropShadow: ['hover']
-    },
-  },
+  variants: {},
   plugins: [ 
     require("@tailwindcss/forms")({
       strategy: 'class',

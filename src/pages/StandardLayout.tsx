@@ -38,8 +38,6 @@ const StandardLayout: LayoutComponent = ({ page }) => {
       <SearchBar
         placeholder='Search...'
         screenReaderInstructionsId='SearchBar__srInstructions'
-        customCssClasses={searchBarCssStyles}
-        cssCompositionMethod='assign'
       />
       {/* <Navigation links={navLinks} */}
       {page}
