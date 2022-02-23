@@ -2,7 +2,7 @@ import { VerticalResultsDisplay } from "../components/VerticalResults";
 import { SectionComponent, SectionConfig } from "../models/sectionComponent";
 import { StandardCard } from "../components/cards/StandardCard";
 
-const verticalResultsContainerCssStyles = { container: 'flex overflow-x-auto space-x-12' }
+const verticalResultsCssStyles = { container: 'flex overflow-x-auto space-x-12' }
 
 const ActorsSection: SectionComponent = function (props: SectionConfig): JSX.Element | null {
   const { results, cardConfig, header } = props;
@@ -14,7 +14,12 @@ const ActorsSection: SectionComponent = function (props: SectionConfig): JSX.Ele
   
   return (
     <section>
-      
+      {header}
+      <VerticalResultsDisplay
+        results={results}
+        CardComponent={cardComponent}
+        {...(cardConfig && { cardConfig })}
+      />
     </section>
   );
 }
