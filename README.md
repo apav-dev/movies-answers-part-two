@@ -1,7 +1,6 @@
-# Building Modern Search with Yext - Part 1
+# Building Modern Search with Yext - Part 2
 
-This repo is referenced [by this guide](https://dev.to/yext/building-modern-search-with-yext-part-1-getting-started-5g41) that explains how to quickly build a Search Experience with Yext. It is the React frontend for a custom Answers backend. The project
-was cloned from the [Yext React Site Search Starter](https://github.com/yext/react-site-search-starter). Check out its README to learn more.
+This repo is used for the Coding Clinic: Getting Started With Answers for Developers webinar on 2/24/22. The ```main``` branch contains the completed project while the ```webinar``` branch contains the code used at the beginning of the webinar.
 
 ### Using this Repo
 To utilze this code, you would need to be sure to build the backend described in the guide. If you have copied the configuration, replace the ```apiKey``` in ```answersHeadlessConfig.ts``` with your Answers API Key. 
