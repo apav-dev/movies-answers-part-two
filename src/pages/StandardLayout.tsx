@@ -27,10 +27,11 @@ const searchBarCssStyles = {
  * A LayoutComponent that provides a SearchBar and Navigation tabs to a given page.
  */
 const StandardLayout: LayoutComponent = ({ page }) => {
-  const isVertical = useAnswersState(s => s.meta.searchType) === SearchTypeEnum.Vertical;
+  // const isVertical = useAnswersState(s => s.meta.searchType) === SearchTypeEnum.Vertical;
 
   return (
     <>
+      {/* example use of the VisualSearchBar which is used to display entity previews on autocomplete for Vertical searches */}
       {/* {isVertical
         ? 
         : <SampleVisualSearchBar />
@@ -41,6 +42,7 @@ const StandardLayout: LayoutComponent = ({ page }) => {
         customCssClasses={searchBarCssStyles}
         cssCompositionMethod='assign'
       />
+      {/* Navigation is commented out as app only displays Universal Search results */}
       {/* <Navigation links={navLinks} */}
       {page}
     </>
