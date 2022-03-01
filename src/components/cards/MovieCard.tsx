@@ -1,5 +1,6 @@
 import { CardProps } from "../../models/cardComponent";
 
+// Name is only required field for a Movie entity, every other field needs conditional operator
 interface Movie {
   name: string,
   description?: string,
@@ -13,9 +14,13 @@ interface Movie {
 
 const movieCardCssStyles = {
   container: 'w-64 h-96 flex flex-col rounded-lg relative group',
-  textPanel: 'absolute top-0 bottom-0 right-0 left-0 w-full rounded-lg bg-gray-200 object-cover opacity-0 transition duration-300 ease-linear group-hover:opacity-90',
   moviePosterContainer: 'w-full h-96 bg-cover rounded-lg shadow-movie',
+
+  // textPanel and textContainer each have the transition Tailwind classes mentioned in the blog
+  textPanel: 'absolute top-0 bottom-0 right-0 left-0 rounded-lg bg-gray-200 opacity-0 transition duration-300 ease-linear group-hover:opacity-90',
   textContainer: 'w-60 px-4 mt-1 mb-2 flex flex-col font-body text-gray-800 absolute opacity-0 transition duration-500 group-hover:opacity-100',
+
+  // the following 4 fields are used by helper functions
   descriptionContainer: 'flex flex-col mt-4',
   descriptionText: 'text-sm',
   headingText: 'font-display text-lg',
@@ -25,6 +30,7 @@ const movieCardCssStyles = {
 export function MovieCard(props: CardProps): JSX.Element {
   const movie = props.result.rawData as unknown as Movie;
 
+  // converts time from minutes to hh mm format (i.e. 127 minutes -> 2 h 7 min)
   function timeConvert(runtime?: string) {
     if(!runtime){
       return null;
@@ -74,5 +80,5 @@ export function MovieCard(props: CardProps): JSX.Element {
         {renderDescription()}
       </div>
     </div>
-  )
+  );
 }

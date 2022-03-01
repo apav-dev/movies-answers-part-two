@@ -5,12 +5,12 @@ import { CompositionMethod, useComposedCssClasses } from '../hooks/useComposedCs
 
 export interface VerticalResultsCssClasses {
   results___loading?: string,
-  container?: string
+  container?: string // Added to existing component
 }
 
 const builtInCssClasses: VerticalResultsCssClasses = {
   results___loading: 'opacity-50',
-  container: ''
+  container: '' // Added to existing component
 }
 
 interface VerticalResultsDisplayProps {
@@ -37,7 +37,7 @@ export function VerticalResultsDisplay(props: VerticalResultsDisplayProps): JSX.
   }
 
   const resultsClassNames = cssClasses.results___loading
-    ? classNames({ [cssClasses.results___loading]: isLoading }, cssClasses.container)
+    ? classNames({ [cssClasses.results___loading]: isLoading }, cssClasses.container) // Added to existing component
     : '';
 
   return (

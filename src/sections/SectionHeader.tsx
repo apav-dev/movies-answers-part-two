@@ -61,7 +61,7 @@ export default function SectionHeader(props: SectionHeaderConfig): JSX.Element {
           <AppliedFiltersDisplay 
             displayableFilters={displayableFilters} 
             customCssClasses={appliedFiltersConfig?.customCssClasses} 
-            cssCompositionMethod="assign"
+            cssCompositionMethod={appliedFiltersConfig?.cssCompositionMethod} //added to existing component
           />
         </div>}
       {viewAllButton && 
