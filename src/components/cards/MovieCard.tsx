@@ -1,6 +1,6 @@
 import { CardProps } from "../../models/cardComponent";
 
-// Name is only required field for a Movie entity, every other field needs conditional operator
+// Name is only required field for a Movie entity, every other field needs the conditional operator
 interface Movie {
   name: string,
   description?: string,
@@ -10,21 +10,6 @@ interface Movie {
   c_genres?: string[],
   c_mpaRating?: string,
   c_runtime?: string
-}
-
-const movieCardCssStyles = {
-  container: 'w-64 h-96 flex flex-col rounded-lg relative group',
-  moviePosterContainer: 'w-full h-96 bg-cover rounded-lg shadow-movie',
-
-  // textPanel and textContainer each have the transition Tailwind classes mentioned in the blog
-  textPanel: 'absolute top-0 bottom-0 right-0 left-0 rounded-lg bg-gray-200 opacity-0 transition duration-300 ease-linear group-hover:opacity-90',
-  textContainer: 'w-60 px-4 mt-1 mb-2 flex flex-col font-body text-gray-800 absolute opacity-0 transition duration-500 group-hover:opacity-100',
-
-  // the following 4 fields are used by helper functions
-  descriptionContainer: 'flex flex-col mt-4',
-  descriptionText: 'text-sm',
-  headingText: 'font-display text-lg',
-  movieInfoList: 'space-x-1 text-sm'
 }
 
 export function MovieCard(props: CardProps): JSX.Element {
@@ -51,7 +36,7 @@ export function MovieCard(props: CardProps): JSX.Element {
 
   function renderMovieInfo() {
     return (
-      <ul className={movieCardCssStyles.movieInfoList}>
+      <ul className='space-x-1 text-sm'>
         <li>{movie.c_mpaRating ? movie.c_mpaRating :  ''}</li>
         <li>/</li>
         <li>{timeConvert(movie.c_runtime)}</li>
@@ -63,19 +48,19 @@ export function MovieCard(props: CardProps): JSX.Element {
 
   function renderDescription() {
     return (
-      <div className={movieCardCssStyles.descriptionContainer}>
-        <span className={movieCardCssStyles.headingText}>Description:</span>
-        <div className={movieCardCssStyles.descriptionText}>{movie.description}</div>
+      <div className='flex flex-col mt-4'>
+        <span className='font-display text-lg'>Description:</span>
+        <div className='text-sm'>{movie.description}</div>
       </div>
     )
   }
 
   return (
-    <div className={movieCardCssStyles.container} >
-      <div className={movieCardCssStyles.textPanel}></div>
-      <div className={movieCardCssStyles.moviePosterContainer} style={{ backgroundImage: `url(${movie.c_poster?.url})` }}/>
-      <div className={movieCardCssStyles.textContainer}>
-        <span className={movieCardCssStyles.headingText}>{movie.name}</span>
+    <div className='w-64 h-96 flex flex-col rounded-lg relative group' >
+      <div className='absolute top-0 bottom-0 right-0 left-0 rounded-lg bg-gray-200 opacity-0 transition duration-300 ease-linear group-hover:opacity-90'></div>
+      <div className='w-full h-96 bg-cover rounded-lg shadow-movie' style={{ backgroundImage: `url(${movie.c_poster?.url})` }}/>
+      <div className='w-60 px-4 mt-1 mb-2 flex flex-col font-body text-gray-800 absolute opacity-0 transition duration-500 group-hover:opacity-100'>
+        <span className='font-display text-lg'>{movie.name}</span>
         {renderMovieInfo()}
         {renderDescription()}
       </div>
