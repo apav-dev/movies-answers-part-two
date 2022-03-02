@@ -1,0 +1,34 @@
+{
+  "$id": "answersIndexingApi",
+  "$schema": "https://schema.yext.com/config/streams/streams-endpoint/v1",
+  "name": "Answers Indexing Endpoint",
+  "stream": {
+    "source": "knowledgeGraph",
+    "fields": [
+      "c_birthDate",
+      "c_birthPlace",
+      "c_height",
+      "c_mpaRating",
+      "c_stars",
+      "id",
+      "meta"
+    ],
+    "filter": {
+      "entityTypes": [
+        "ce_movie",
+        "ce_actor"
+      ]
+    },
+    "localization": {
+      "locales": [
+        "en"
+      ],
+      "excludePrimary": true
+    }
+  },
+  "fieldIndexes": [
+    {
+      "field": "uid"
+    }
+  ]
+}

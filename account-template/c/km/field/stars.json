@@ -1,0 +1,13 @@
+{
+  "$id": "c_stars",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Stars",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_star"
+    }
+  },
+  "typeId": "list"
+}

@@ -1,0 +1,38 @@
+{
+  "$id": "nm0068709",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Ned was born in Dayton, Ohio to Bill and Nelle Bellamy. After spending his childhood in Joplin, Missouri, the family moved to La Jolla, California. Mark, his brother, is the U.S. Ambassador to Kenya. Anne, his sister, is president of African Travel in Los Angeles. After graduating from UCLA, Ned and classmates, founded the Los Angeles based theater company, \"The Actors Gang\". He has appeared in numerous film and television productions and continues to reside in Los Angeles.",
+    "c_birthDate": "1957-05-07",
+    "c_birthPlace": "Dayton, Ohio, USA",
+    "c_filmography": [
+      {
+        "characterName": "Derek Mantini",
+        "movie": [
+          "tt0120601"
+        ]
+      }
+    ],
+    "c_height": "6\u0027",
+    "name": "Ned Bellamy",
+    "primaryPhoto": {
+      "image": {
+        "height": 204,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BMjAwNzc1NjM0OF5BMl5BanBnXkFtZTcwMTU2NzYzMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "thumbnails": [
+          {
+            "height": 204,
+            "url": "https://a.mktgcdn.com/p-sandbox/OeZEq02mSm9MYXfndweKQKR5ldxtAawRE6izQVE4zj8/145x204.jpg",
+            "width": 145
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/OeZEq02mSm9MYXfndweKQKR5ldxtAawRE6izQVE4zj8/145x204.jpg",
+        "width": 145
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

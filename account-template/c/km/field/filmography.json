@@ -1,0 +1,48 @@
+{
+  "$id": "c_filmography",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Filmography",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_role",
+      "type": {
+        "structType": {
+          "property": [
+            {
+              "displayName": "Character Name",
+              "isRequired": false,
+              "name": "characterName",
+              "type": {
+                "stringType": {
+                  "stereotype": "SIMPLE"
+                }
+              },
+              "typeId": "string"
+            },
+            {
+              "displayName": "Movie",
+              "isRequired": false,
+              "name": "movie",
+              "type": {
+                "listType": {
+                  "type": {
+                    "entityReferenceType": {
+                      "supportedEntityTypeIds": [
+                        "ce_movie"
+                      ]
+                    }
+                  },
+                  "typeId": "entityReference"
+                }
+              },
+              "typeId": "list"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

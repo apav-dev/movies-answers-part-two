@@ -1,0 +1,70 @@
+{
+  "$id": "tt0120363",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_genres": [
+      "Animation",
+      "Action",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Adventure"
+    ],
+    "c_mpaRating": "G",
+    "c_poster": {
+      "height": 1120,
+      "sourceUrl": "https://a.mktgcdn.com/p-sandbox/g6LoxzJrbtJ4lgVAMpNtbvrqh9qxIMSA9INOtGcuCD0/800x1171.jpg",
+      "thumbnails": [
+        {
+          "height": 1120,
+          "url": "https://a.mktgcdn.com/p-sandbox/lFM0YAmtNl61KwMRHls3VygLNo--FENvDgo--DfL_Ao/800x1120.jpg",
+          "width": 800
+        },
+        {
+          "height": 867,
+          "url": "https://a.mktgcdn.com/p-sandbox/lFM0YAmtNl61KwMRHls3VygLNo--FENvDgo--DfL_Ao/619x867.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/lFM0YAmtNl61KwMRHls3VygLNo--FENvDgo--DfL_Ao/321x450.jpg",
+          "width": 321
+        },
+        {
+          "height": 274,
+          "url": "https://a.mktgcdn.com/p-sandbox/lFM0YAmtNl61KwMRHls3VygLNo--FENvDgo--DfL_Ao/196x274.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/lFM0YAmtNl61KwMRHls3VygLNo--FENvDgo--DfL_Ao/800x1120.jpg",
+      "width": 800
+    },
+    "c_runtime": "92",
+    "c_stars": [
+      {
+        "actor": [
+          "nm0000741"
+        ],
+        "role": "Buzz Lightyear"
+      },
+      {
+        "actor": [
+          "nm0000158"
+        ],
+        "role": "Woody"
+      },
+      {
+        "actor": [
+          "nm0725543"
+        ],
+        "role": "Mr. Potato Head"
+      }
+    ],
+    "c_tagline": "The toys are back!",
+    "description": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al\u0027s Toy Barn kidnaps Woody. Andy\u0027s toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+    "name": "Toy Story 2"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

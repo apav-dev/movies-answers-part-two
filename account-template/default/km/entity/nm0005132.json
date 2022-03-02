@@ -1,0 +1,38 @@
+{
+  "$id": "nm0005132",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "When hunky, twenty-year-old heart-throb Heath Ledger first came to the attention of the public in 1999, it was all too easy to tag him as a \"pretty boy\" and an actor of little depth. He spent several years trying desperately to sway this image, but this was a double-edged sword. His work comprised nineteen films, including 10 Things I Hate About You (1999), The Patriot (2000), A Knight\u0027s Tale (2001), Monster\u0027s Ball (2001), Ned Kelly (2003), The Brothers Grimm (2005), Lords of Dogtown (2005), Brokeback Mountain (2005), Casanova (2005), Candy (2006), I\u0027m Not There (2007), The Dark Knight (2008) and The Imaginarium of Doctor Parnassus (2009). He also produced and directed music videos and aspired to be a film director.Heath Ledger was born on the fourth of April 1979, in Perth, Western Australia, to Sally (Ramshaw), a teacher of French, and Kim Ledger, a mining engineer who also raced cars. His ancestry was Scottish, English, Irish, and Sephardi Jewish. As the story goes, in junior high school it was compulsory to take one of two electives, either cooking or drama. As Heath could not see himself in a cooking class he tried his hand at drama. Heath was talented, however the rest of the class did not acknowledge his talent. When he was seventeen he and a friend decided to pack up, leave school, take a car and rough it to Sydney. Heath believed Sydney to be the place where dreams were made or, at least, where actors could possibly get their big break. Upon arriving in Sydney with a purported sixty-nine cents to his name, Heath tried everything to get a break.His first real acting job came in a low-budget movie called Blackrock (1997), a largely unimpressive cliché; an adolescent angst film about one boy\u0027s struggle when he learns his best mate raped a girl. He only had a very small role in the film. After that small role Heath auditioned for a role in a T.V. show called Sweat (1996) about a group of young Olympic hopefuls. He was offered one of two roles, one as a swimmer, another as a gay cyclist. Heath accepted the latter because he felt to really stand out as an actor one had to accept unique roles that stood out from the bunch. It got him small notice, but unfortunately the show was quickly axed, forcing him to look for other roles. He was in Home and Away (1988) for a very short period, in which he played a surfer who falls in love with one of the girls of Summer Bay. Then came his very brief role in Paws (1997), a film which existed solely to cash in on guitar prodigy Nathan Cavaleri\u0027s brief moment of fame, where he was the hottest thing in Australia. Heath played a student in the film, involved in a stage production of a Shakespeare play, in which he played \"Oberon\". A very brief role, this offered him a small paycheck but did nothing to advance his career. Then came Two Hands (1999). He went to the U.S. trying to audition for film roles, showcasing his brief role in Roar (1997) opposite then unknown Vera Farmiga.Then Australian director Gregor Jordan auditioned him for the lead in Two Hands (1999), which he got. An in your face Aussie crime thriller, Two Hands (1999) was outstanding and helped him secure a role in 10 Things I Hate About You (1999). After that, it seemed Heath was being typecast as a young hunk, which he did not like, so he accepted a role in a very serious war drama The Patriot (2000).What followed was a stark inconsistency of roles, Ledger accepting virtually every single character role, anything to avoid being typecast. Some met with praise, like his short role in Monster\u0027s Ball (2001), but his version of Ned Kelly (2003) was an absolute flop, which led distributors hesitant to even release it outside Australia. Heath finally had deserved success with his role in Brokeback Mountain (2005). For his portrayal of Ennis Del Mar in in the film, Ledger won the New York Film Critics Circle Award for Best Actor and Best International Actor from the Australian Film Institute, and was nominated for the BAFTA Award for Best Actor in a Leading Role and for the Academy Award for Best Actor.Ledger was found dead on January 22, 2008 in his apartment in the Manhattan neighborhood of SoHo, with a bottle of prescription sleeping pills near-by. It was concluded weeks later that he died of an accidental overdose of prescription drugs that included pain-killers, sleeping pills and anti-anxiety medication. His death occurred during editing of The Dark Knight (2008) and in the midst of filming his last role as Tony in The Imaginarium of Doctor Parnassus (2009).Posthumously, he shared the 2007 Independent Spirit Robert Altman Award with the rest of the ensemble cast, the director, and the casting director for the film I\u0027m Not There (2007), which was inspired by the life and songs of American singer-songwriter Bob Dylan. In the film, Ledger portrayed a fictional actor named Robbie Clark, one of six characters embodying aspects of Dylan\u0027s life and persona.A few months before his death, Ledger had finished filming his performance as the Joker in \u0027The Dark Knight (2008). His untimely death cast a somber shadow over the subsequent promotion of the $185 million Batman production. Ledger received more than thirty posthumous accolades for his critically acclaimed performance as the Joker, the psychopathic clown prince of crime, in the film, including the Academy Award for Best Supporting Actor, a Best Actor International Award at the 2008 Australian Film Institute Awards (for which he is the second actor to win an acting award posthumously after Peter Finch who won an Oscar for Network (Best Actor 1977)), the 2008 Los Angeles Film Critics Association Award for Best Supporting Actor, the 2009 Golden Globe Award for Best Supporting Actor - Motion Picture, and the 2009 BAFTA Award for Best Supporting Actor.",
+    "c_birthDate": "1979-04-04",
+    "c_birthPlace": "Perth, Western Australia, Australia",
+    "c_filmography": [
+      {
+        "characterName": "Patrick Verona",
+        "movie": [
+          "tt0147800"
+        ]
+      }
+    ],
+    "c_height": "6\u0027 1",
+    "name": "Heath Ledger",
+    "primaryPhoto": {
+      "image": {
+        "height": 252,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BMTI2NTY0NzA4MF5BMl5BanBnXkFtZTYwMjE1MDE0._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "thumbnails": [
+          {
+            "height": 252,
+            "url": "https://a.mktgcdn.com/p-sandbox/R5uTQRi3wyqh0wGL1Q2XO5mz4RhHCl-1u--pcDbh_IE/180x252.jpg",
+            "width": 180
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/R5uTQRi3wyqh0wGL1Q2XO5mz4RhHCl-1u--pcDbh_IE/180x252.jpg",
+        "width": 180
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

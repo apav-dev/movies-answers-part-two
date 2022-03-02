@@ -1,0 +1,68 @@
+{
+  "$id": "tt0167404",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_genres": [
+      "Drama",
+      "Mystery",
+      "Thriller",
+      "Action"
+    ],
+    "c_mpaRating": "PG-13",
+    "c_poster": {
+      "height": 1066,
+      "sourceUrl": "https://a.mktgcdn.com/p-sandbox/X9XLF4Q_qNc9AJDwHOcw23D8AeP-IiEGhxjif6IskF4/762x1133.jpg",
+      "thumbnails": [
+        {
+          "height": 1066,
+          "url": "https://a.mktgcdn.com/p-sandbox/aNlc3nYTgfZ9Zde_X7onMFyZOmMKmu1ZarmjHNZovX8/762x1066.jpg",
+          "width": 762
+        },
+        {
+          "height": 866,
+          "url": "https://a.mktgcdn.com/p-sandbox/aNlc3nYTgfZ9Zde_X7onMFyZOmMKmu1ZarmjHNZovX8/619x866.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/aNlc3nYTgfZ9Zde_X7onMFyZOmMKmu1ZarmjHNZovX8/322x450.jpg",
+          "width": 322
+        },
+        {
+          "height": 274,
+          "url": "https://a.mktgcdn.com/p-sandbox/aNlc3nYTgfZ9Zde_X7onMFyZOmMKmu1ZarmjHNZovX8/196x274.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/aNlc3nYTgfZ9Zde_X7onMFyZOmMKmu1ZarmjHNZovX8/762x1066.jpg",
+      "width": 762
+    },
+    "c_runtime": "107",
+    "c_stars": [
+      {
+        "actor": [
+          "nm0000246"
+        ],
+        "role": "Malcolm Crowe"
+      },
+      {
+        "actor": [
+          "nm0005286"
+        ],
+        "role": "Cole Sear"
+      },
+      {
+        "actor": [
+          "nm0001057"
+        ],
+        "role": "Lynn Sear"
+      }
+    ],
+    "c_tagline": "Not every gift is a blessing.",
+    "description": "A psychological thriller about an eight year old boy named Cole Sear who believes he can see into the world of the dead. A child psychologist named Malcolm Crowe comes to Cole to help him deal with his problem, learning that he really can see the ghosts of dead people.",
+    "name": "The Sixth Sense"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

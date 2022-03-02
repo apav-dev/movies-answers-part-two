@@ -1,0 +1,38 @@
+{
+  "$id": "nm0001533",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Meat Loaf was born Marvin Lee Aday in Dallas, Texas, and moved to Los Angeles in 1967 to play in local bands. In 1970, he moved to New York and appeared in the Broadway musicals \"Hair\", \"Rockabye Hamlet\" and \"The Rocky Horror Show\" and Off Broadway in \"Rainbow\",\"More Than You Deserve\", \"National Lampoon Show\" and the New York Shakespeare Festival\u0027s production of \"As You Like it\" and other productions at the famed New York Public Theatre. He made his film debut with a memorable role in the cult film The Rocky Horror Picture Show (1975).In 1977, he and lyricist Jim Steinman released an operatic rock album called \"Bat Out Of Hell\"; the record was huge and has sold 50,000,000 copies worldwide and is tied with AC/DC for the 2nd best selling record of all time. The tour and promoting the album took a toll on Meat Loaf\u0027s voice and left him unable to sing for 2 years, but with months of rehabilitation, he was able to get back in the studio and record the album \"Dead Ringer\".Meat Loaf stayed in the dark through the 1980s in the US, recording 4 records which got very little airplay or high chart positions in the US but continued to have major chart success in Europe and Australia . The 1981 Single \"Dead Ringer for Love\", a duet with Cher, was a top 10 single in many countries outside the US, but was a song American radio refused to play.Meat Loaf had many film roles, such as the lead character Travis Redfish in Roadie (1980); a pilot in Out of Bounds (1986); in The Squeeze (1987) with Michael Keaton; and Fred in Focus (2001) (based on the Authur Miller book by the same name), with Laura Dern and William H. Macy.When Meat Loaf and Steinman got back together in 1993, they delivered a powerful sequel \"Bat Out Of Hell II\" which went to #1 in the US and UK and 26 other countries. Bat II has now sold over 22,000,000 copies.Meat Loaf\u0027s TV credits include guest starring roles as a soldier being held prisoner in Vietnam in Lightning Force (1991), a newspaper reporter in the hit series Glee (2009), a slick landlord of a restaurant who ends up on the menu in HBO series Tales from the Crypt (1989) a blacksmith on the Showtime series Dead Man\u0027s Gun (1997), Masters of Horror (2005) episode Masters of Horror: Pelts (2006) in the role as fur trader Jake, many others including House M.D. (2004) as the caring husband Eddie. Hugh Laurie (the star of \"House\") played piano on the song \"If I Can\u0027t Have You\" on Meat Loaf\u0027s album \"Hang Cool Teddy Bear\" produced by award winning Record Producer Rob Cavallo . Actor Jack Black also sang with Meat Loaf on the album. Meat Loaf recently had the supporting role of Doug in the SYFY series Ghost Wars (2017).Meat Loaf has also appeared in the films Crazy in Alabama (1999), The 51st State (2001) with Samuel L. Jackson, Fight Club (1999)(2001) with Brad Pitt and many other film roles.",
+    "c_birthDate": "1947-09-27",
+    "c_birthPlace": "Dallas, Texas, USA",
+    "c_filmography": [
+      {
+        "characterName": "Robert \"Bob\" Paulsen",
+        "movie": [
+          "tt0137523"
+        ]
+      }
+    ],
+    "c_height": "6\u0027",
+    "name": "Meat Loaf",
+    "primaryPhoto": {
+      "image": {
+        "height": 254,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BMTIzNTQ4MjYyOV5BMl5BanBnXkFtZTcwNzgwNTEzMg@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "thumbnails": [
+          {
+            "height": 254,
+            "url": "https://a.mktgcdn.com/p-sandbox/xKjn9a3y8GErXBNTTkqEmOmBbVVYRC6OovLwHCS09Tc/182x254.jpg",
+            "width": 182
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/xKjn9a3y8GErXBNTTkqEmOmBbVVYRC6OovLwHCS09Tc/182x254.jpg",
+        "width": 182
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

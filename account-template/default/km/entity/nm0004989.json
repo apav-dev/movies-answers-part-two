@@ -1,0 +1,38 @@
+{
+  "$id": "nm0004989",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Alyson Hannigan was born in Washington, D.C., to Emilie (Posner), a real estate agent, and Al Hannigan, a truck driver. She began her acting career in Atlanta at the young age of 4 in commercials sponsoring such companies as McDonald\u0027s, Six Flags, and Oreos. She is a seasoned television actress veteran, guest starring in Picket Fences (1992), Roseanne (1988), Touched by an Angel (1994) and the The Torkelsons (1991) before starring in her most notorious roles yet in Buffy the Vampire Slayer (1997) as \"Willow Rosenberg\" and How I Met Your Mother (2005) as \"Lily Aldrin.\"",
+    "c_birthDate": "1974-03-24",
+    "c_birthPlace": "Washington, District of Columbia, USA",
+    "c_filmography": [
+      {
+        "characterName": "Michelle Flaherty",
+        "movie": [
+          "tt0163651"
+        ]
+      }
+    ],
+    "c_height": "5\u0027 4½",
+    "name": "Alyson Hannigan",
+    "primaryPhoto": {
+      "image": {
+        "height": 268,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BMTkxODc5ODI5OV5BMl5BanBnXkFtZTcwNzExOTUyNw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "thumbnails": [
+          {
+            "height": 268,
+            "url": "https://a.mktgcdn.com/p-sandbox/z9HJAcGX1ZtLFY4xY26UlzGUrhcZmtmQEXefxFuSvyw/182x268.jpg",
+            "width": 182
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/z9HJAcGX1ZtLFY4xY26UlzGUrhcZmtmQEXefxFuSvyw/182x268.jpg",
+        "width": 182
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

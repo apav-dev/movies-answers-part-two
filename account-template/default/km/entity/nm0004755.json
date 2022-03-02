@@ -1,0 +1,38 @@
+{
+  "$id": "nm0004755",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Jason Matthew Biggs was born on May 12, 1978, in Pompton Plains, New Jersey, to Angela (Zocco), a nurse, and Gary Biggs, a shipping company manager. Jason has two sisters, Heather, a tax specialist born in 1971, and Chiara, born in 1980. He was raised Catholic, and is of English and mostly Italian descent. Jason started acting at age five, appearing in several national commercials. In 1991, at 13 he won a part on the FOX sitcom Drexell\u0027s Class (1991), but the show was canceled after one season. Also during that year, he made his Broadway debut opposite Judd Hirsch in the play, Conversations With My Father. The play helped earn him a spot on As the World Turns (1956), as the rebellious Pete Wendall. The role earned him a nomination for Best Younger Actor in a Drama Series at the Daytime Emmy\u0027s. After graduating high school in 1996, he studied briefly at New York University and Montclair State University in New Jersey but dropped out to pursue acting again. In 1997, he costarred in the short lived television series Camp Stories (1996). In 1999 came his breakthrough role in the teen sex comedy American Pie (1999). His performance shocked yet wooed audiences, critics, and casting agents to bring him for the first time the chance to choose new roles and scripts. He chose such roles in Loser (2000) and Boys and Girls (2000).",
+    "c_birthDate": "1978-05-12",
+    "c_birthPlace": "Pompton Plains, New Jersey, USA",
+    "c_filmography": [
+      {
+        "characterName": "Jim Levenstein",
+        "movie": [
+          "tt0163651"
+        ]
+      }
+    ],
+    "c_height": "5\u0027 9",
+    "name": "Jason Biggs",
+    "primaryPhoto": {
+      "image": {
+        "height": 268,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BMTk4Mzg0NjMwMV5BMl5BanBnXkFtZTcwNDgyNzE4NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "thumbnails": [
+          {
+            "height": 268,
+            "url": "https://a.mktgcdn.com/p-sandbox/r511D3hIvdvOfHZAVYYDfI9ouDZXj7fQ9B4ViDj76-A/182x268.jpg",
+            "width": 182
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/r511D3hIvdvOfHZAVYYDfI9ouDZXj7fQ9B4ViDj76-A/182x268.jpg",
+        "width": 182
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

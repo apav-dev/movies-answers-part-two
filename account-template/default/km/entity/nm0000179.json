@@ -1,0 +1,38 @@
+{
+  "$id": "nm0000179",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Jude Law is an English actor. Law has been nominated for two Academy Awards and continues to build a prolific body of work that spans from early successes such as Gattaca (1997) and The Talented Mr. Ripley (1999) to more recent turns as Dr. John Watson in Sherlock Holmes (2009) and Sherlock Holmes: A Game of Shadows (2011), as Hugo\u0027s father in Hugo (2011) and in the titular role in Dom Hemingway (2013).David Jude Law was born on December 29, 1972 in Lewisham, London, England, to Margaret Anne (Heyworth) and Peter Robert Law, both of whom taught at comprehensive schools; his father later became a headmaster. Law has said that he was named after both the book Jude the Obscure and the song Hey Jude.In 1992, Jude began his stage career. He starred in many plays throughout London, and was nominated for the Laurence Olivier Award of \"Outstanding Newcomer\" After doing the play \"Indiscretions\" in London, he moved and did it again on Broadway. This time, he was alongside Kathleen Turner. He then received a Tony Nomination for \"Outstanding Supporting Actor\". He was then rewarded the Theatre World Award. After Broadway, Jude started on the big screen, in many independent films. His first big-named movie was Gattaca (1997), with Uma Thurman and Ethan Hawke. He also had a good role in Midnight in the Garden of Good and Evil (1997). Jude\u0027s latest rise to fame has been because of The Talented Mr. Ripley (1999), in which he plays Matt Damon\u0027s obsession. The film did very well at the box office, and critics loved Jude\u0027s acting.Following the success of Gattaca (1997) and The Talented Mr. Ripley (1999), Law\u0027s feature film career continued to gain momentum throughout the late 1990s and early 2000s with roles in such films as Enemy at the Gates (2001), Road to Perdition (2002), I Heart Huckabees (2004), The Aviator (2004) and many others. Law is one of three actors, along with Colin Farrell and Johnny Depp, to take over acting responsibilities in the Terry Gilliam project The Imaginarium of Doctor Parnassus (2009) following Heath Ledger\u0027s death.Law is a partner in the production company \"Natural Nylon\". His partners include Jonny Lee Miller, Ewan McGregor and his ex-wife Sadie Frost.Law has been active in many charitable activities and supports several different foundations and causes, doing work for organizations including the Make-A-Wish Foundation, Make Poverty History, Breast Cancer Care and others. Law is also a peace advocate, and in 2011, participated in street protests against the rule of Alexander Lukashenko in Belarus.Law married Sadie Frost in 1997 and the couple had two sons (Rafferty and Rudy) and a daughter (Iris) before divorcing in 2003. Law and Alfie (2004) co-star Sienna Miller were engaged to be married in 2005 and separated in 2006 (they would later rekindle their relationship in 2009, splitting once again in 2011). Law and American model Samantha Burke had a brief relationship in 2008 that resulted in the birth of Law\u0027s fourth child, daughter Sophia. Law\u0027s fifth child, with an ex-girlfriend, Catherine Harding, was born in 2015.",
+    "c_birthDate": "1972-12-29",
+    "c_birthPlace": "Lewisham, London, England, UK",
+    "c_filmography": [
+      {
+        "characterName": "Dickie Greenleaf",
+        "movie": [
+          "tt0134119"
+        ]
+      }
+    ],
+    "c_height": "5\u0027 10",
+    "name": "Jude Law",
+    "primaryPhoto": {
+      "image": {
+        "height": 254,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BMTMwOTg5NTQ3NV5BMl5BanBnXkFtZTcwNzM3MDAzNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "thumbnails": [
+          {
+            "height": 254,
+            "url": "https://a.mktgcdn.com/p-sandbox/q1Ag55D5AyrmpAtQWxIHoxGGnEzPutWepj9XppRDXGk/182x254.jpg",
+            "width": 182
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/q1Ag55D5AyrmpAtQWxIHoxGGnEzPutWepj9XppRDXGk/182x254.jpg",
+        "width": 182
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

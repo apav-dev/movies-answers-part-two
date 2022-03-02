@@ -1,0 +1,65 @@
+{
+  "$id": "tt0163651",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_genres": [
+      "Comedy"
+    ],
+    "c_mpaRating": "R",
+    "c_poster": {
+      "height": 1048,
+      "sourceUrl": "https://a.mktgcdn.com/p-sandbox/Nh5Rq84aHSczUyc429qZVQfYKpUFJwa5SgXJYKadgb4/749x1124.jpg",
+      "thumbnails": [
+        {
+          "height": 1048,
+          "url": "https://a.mktgcdn.com/p-sandbox/XTU9gMYJtGzZ1zzNsxmLOJHzPws0tAF8saeeXywP1gY/749x1048.jpg",
+          "width": 749
+        },
+        {
+          "height": 866,
+          "url": "https://a.mktgcdn.com/p-sandbox/XTU9gMYJtGzZ1zzNsxmLOJHzPws0tAF8saeeXywP1gY/619x866.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/XTU9gMYJtGzZ1zzNsxmLOJHzPws0tAF8saeeXywP1gY/322x450.jpg",
+          "width": 322
+        },
+        {
+          "height": 274,
+          "url": "https://a.mktgcdn.com/p-sandbox/XTU9gMYJtGzZ1zzNsxmLOJHzPws0tAF8saeeXywP1gY/196x274.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/XTU9gMYJtGzZ1zzNsxmLOJHzPws0tAF8saeeXywP1gY/749x1048.jpg",
+      "width": 749
+    },
+    "c_runtime": "95",
+    "c_stars": [
+      {
+        "actor": [
+          "nm0004989"
+        ],
+        "role": "Michelle"
+      },
+      {
+        "actor": [
+          "nm0004755"
+        ],
+        "role": "Jim"
+      },
+      {
+        "actor": [
+          "nm0005098"
+        ],
+        "role": "Oz"
+      }
+    ],
+    "c_tagline": "There\u0027s nothing like your first piece.",
+    "description": "At a high-school party, four friends find that losing their collective virginity isn\u0027t as easy as they had thought. But they still believe that they need to do so before college. To motivate themselves, they enter a pact to all \"score.\" by their senior prom.",
+    "name": "American Pie"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

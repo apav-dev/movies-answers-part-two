@@ -1,0 +1,38 @@
+{
+  "$id": "nm0001057",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Toni Collette is an Academy Award-nominated Australian actress, best known for her roles in The Sixth Sense (1999) and Little Miss Sunshine (2006).Collette was born Toni Collett (she later added an \"e\") on November 1, 1972, in Blacktown, Sydney, New South Wales, Australia. She is the first of three children of Judith (Cook), a customer service representative, and Bob Collett, a truck driver. From age six, she was brought up in suburban Sydney. At the age of eleven, she showed her phenomenal acting skills when she faked appendicitis out of boredom and longing for attention; her act was so convincing that doctors had to remove her appendix, even though the test showed nothing was wrong with it. At 16, she left school and enrolled in the National Institute of Dramatic Arts (NIDA). At that time, she was a struggling actress, supporting herself by delivering pizzas. After 18 months of studies, she left NIDA for her feature film debut as \"Wendy Robinson\", opposite Russell Crowe and Anthony Hopkins, in Spotswood (1991), and earned herself a nomination for Best Supporting Actress from the Australian Film Institute. Collette made her stage debut with the Sydney Theatre Company, as \"Sonya\" in Anton Chekhov\u0027s \"Uncle Vanya\", a performance that won her a critic\u0027s circle award as Best Newcomer. She also appeared in stage productions at the Belvoir Street Theatre, under directorship of Geoffrey Rush. In 1994, she won the Australian Best Actress in a Lead Role for her work in Muriel\u0027s Wedding (1994), for which she had to gain 40 pounds in seven weeks. In 1995, Toni Collette came to Hollywood with a supporting role in The Pallbearer (1996), then had a string of supporting roles. Her first lead as \"Diana Spencer\", an Australian woman who shares the name and birthday of Princess Diana, in the comedy, Diana \u0026 Me (1997), was obscured by the real Diana\u0027s death, which practically occurred at the same time when the movie was released. Her breakthrough came with the role as \"Lynn Sear\" in The Sixth Sense (1999), for which she quite rightly won an Academy Award nomination for Best Actress in a Supporting Role. Her latest memorable role as \"Sheryl\", a beaten-down but loving mother, in Little Miss Sunshine (2006), is also a fine ensemble work with Abigail Breslin, Greg Kinnear, Steve Carell, Paul Dano, and Alan Arkin. Since 2003, Toni Collette has been married to musician Dave Galafassi, with whom she recorded her singing and songwriting debut album, titled \"Beautiful Awkward Pictures\", in 2006. She co-owns an independent production company in Australia, and also continues her music career as a singer. Toni resides with her husband in Sydney, Australia, and owns a second home in Ireland.",
+    "c_birthDate": "1972-11-01",
+    "c_birthPlace": "Sydney, New South Wales, Australia",
+    "c_filmography": [
+      {
+        "characterName": "Lynn Sear",
+        "movie": [
+          "tt0167404"
+        ]
+      }
+    ],
+    "c_height": "5\u0027 8",
+    "name": "Toni Collette",
+    "primaryPhoto": {
+      "image": {
+        "height": 229,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BODYzOTE3ODc1Ml5BMl5BanBnXkFtZTgwODYwMjE4NTM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "thumbnails": [
+          {
+            "height": 229,
+            "url": "https://a.mktgcdn.com/p-sandbox/sAi4-S3ZTr7R3xmezso0wSVSUSJIlOdpk78VjW_R0Ss/163x229.jpg",
+            "width": 163
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/sAi4-S3ZTr7R3xmezso0wSVSUSJIlOdpk78VjW_R0Ss/163x229.jpg",
+        "width": 163
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

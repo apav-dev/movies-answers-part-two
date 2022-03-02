@@ -1,0 +1,48 @@
+{
+  "$id": "nm0000131",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "John Cusack is, like most of his characters, an unconventional hero. Wary of fame and repelled by formulaic Hollywood fare, he has built a successful career playing underdogs and odd men out--all the while avoiding the media spotlight. John was born in Evanston, Illinois, to an Irish-American family. With the exception of mom Nancy (née Carolan), a former math teacher, the Cusack clan is all show business: father Dick Cusack was an actor and filmmaker, and John\u0027s siblings Joan Cusack, Ann Cusack, Bill Cusack and Susie Cusack are all thespians by trade. Like his brother and sisters, John became a member of Chicago\u0027s Piven Theatre Workshop while he was still in elementary school. By age 12, he already had several stage productions, commercial voice overs and industrial films under his belt. He made his feature film debut at 17, acting alongside Rob Lowe and Andrew McCarthy in the romantic comedy Class (1983). His next role, as a member of Anthony Michael Hall\u0027s geek brigade in Sixteen Candles (1984), put him on track to becoming a teen-flick fixture. Cusack remained on the periphery of the Brat Pack, sidestepping the meteoric rise and fall of most of his contemporaries, but he stayed busy with leads in films like The Sure Thing (1985) and Better Off Dead... (1985). Young Cusack is probably best remembered for what could be considered his last adolescent role: the stereo-blaring romantic Lloyd Dobler in Say Anything... (1989). A year later, he hit theaters as a grown-up, playing a bush-league con man caught between his manipulative mother and headstrong girlfriend in The Grifters (1990).The next few years were relatively quiet for the actor, but he filled in the gaps with off-screen projects. He directed and produced several shows for the Chicago-based theater group The New Criminals, which he founded in 1988 (modeling it after Tim Robbins\u0027 Actors\u0027 Gang in Los Angeles) to promote political and avant-garde stage work. Four years later, Cusack\u0027s high school friends Steve Pink and D.V. DeVincentis joined him in starting a sister company for film, New Crime Productions. New Crime\u0027s first feature was the sharply written comedy Grosse Pointe Blank (1997), which touched off a career renaissance for Cusack. In addition to co-scripting, he starred as a world-weary hit man who goes home for his ten-year high school reunion and tries to rekindle a romance with the girl he stood up on prom night (Minnie Driver). In an instance of life imitating art, Cusack actually did go home for his ten-year reunion (to honor a bet about the film\u0027s financing) and ended up in a real-life romance with Driver. Cusack\u0027s next appearance was as a federal agent (or, as he described it, \"the first post-Heston, non-biblical action star in sandals\") in Con Air (1997), a movie he chose because he felt it was time to make smart business decisions. He followed that with Clint Eastwood\u0027s Midnight in the Garden of Good and Evil (1997), in which he played a Yankee reporter entangled in a Savannah murder case.Cusack has always favored offbeat material, so it was no surprise when he turned up in the fiercely original Being John Malkovich (1999). Long-haired, bearded and bespectacled, he was almost unrecognizable in the role of a frustrated puppeteer who stumbles across a portal into the brain of actor John Malkovich. The convincing performance won him a Best Actor nomination at the Independent Spirit Awards. In 2000, Cusack was back to his clean-shaven self in High Fidelity (2000), another New Crime production. He worked with Steve Pink and D.V. DeVincentis to adapt Nick Hornby\u0027s popular novel (relocating the story to their native Chicago), then starred as the sarcastic record store owner who revisits his \"Top 5\" breakups to find out why he\u0027s so unlucky in love. The real Cusack has been romantically linked with several celebs, including Driver, Alison Eastwood, Claire Forlani and Neve Campbell. He\u0027s also something of a family man, acting frequently opposite sister Joan Cusack and pulling other Cusacks into his films on a regular basis. He seems pleased with the spate of projects on his horizon, but admits that he still hasn\u0027t reached his ultimate goal: to be involved in a \"great piece of art\".",
+    "c_birthDate": "1966-06-28",
+    "c_birthPlace": "Evanston, Illinois, USA",
+    "c_filmography": [
+      {
+        "characterName": "Craig Schwartz",
+        "movie": [
+          "tt0120601"
+        ]
+      }
+    ],
+    "c_height": "6\u00272",
+    "name": "John Cusack",
+    "primaryPhoto": {
+      "image": {
+        "height": 791,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/John_Cusack_Cannes_2014.jpg",
+        "thumbnails": [
+          {
+            "height": 791,
+            "url": "https://a.mktgcdn.com/p-sandbox/uzJNbYEAY7GFDkOJOoR6J-pMZ6_qUVmBO3R-Pbd9slY/565x791.jpg",
+            "width": 565
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/uzJNbYEAY7GFDkOJOoR6J-pMZ6_qUVmBO3R-Pbd9slY/321x450.jpg",
+            "width": 321
+          },
+          {
+            "height": 274,
+            "url": "https://a.mktgcdn.com/p-sandbox/uzJNbYEAY7GFDkOJOoR6J-pMZ6_qUVmBO3R-Pbd9slY/196x274.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/uzJNbYEAY7GFDkOJOoR6J-pMZ6_qUVmBO3R-Pbd9slY/565x791.jpg",
+        "width": 565
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

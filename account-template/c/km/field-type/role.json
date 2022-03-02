@@ -1,0 +1,36 @@
+{
+  "$id": "c_role",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "Role",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "characterName",
+          "displayName": "Character Name",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "movie",
+          "displayName": "Movie",
+          "isRequired": false,
+          "typeId": "list",
+          "type": {
+            "listType": {
+              "typeId": "entityReference",
+              "type": {
+                "entityReferenceType": {}
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

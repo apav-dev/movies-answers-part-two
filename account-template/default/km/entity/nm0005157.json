@@ -1,0 +1,38 @@
+{
+  "$id": "nm0005157",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Jake Matthew Lloyd Broadbent is an American former actor. He is most famous for playing Anakin Skywalker in \"Star Wars: Episode I - The Phantom Menace (1999).\" Directed by George Lucas, the movie became the second-highest-grossing film worldwide at the box office, behind only \"Titanic (1997).\"Lloyd appeared in commercials at a young age and appeared in four episodes of \"ER (TV Series).\" He made his film debut in \"Unhook the Stars (1996),\" starring Gena Rowlands and Marisa Tomei. After Lloyd achieved his dream of working with actor Arnold Schwarzenegger in the Christmas film \"Jingle All the Way (1996),\" director George Lucas picked him out of roughly 3,000 child actors to star as nine-year-old Anakin Skywalker in the highly anticipated prequel, \"Star Wars: Episode I - The Phantom Menace.\"Despite massive box office success, \"The Phantom Menace\" met with extreme negative backlash from both critics and audiences, particularly with actor Ahmed Best\u0027s portrayal of Jar Jar Binks and with Lloyd\u0027s performance as Anakin Skywalker. After overwhelming response from both the media and the public, Lloyd retired from acting following \"Episode I.\" He did, however, reprise his role as Anakin in five Star Wars video games for LucasArts. Although his last role was filmed in 2000, Lloyd\u0027s final film was \"Madison (2005),\" starring Jim Caviezel.After Hollywood, Lloyd moved with his family to Indianapolis, Indiana. He attended Carmel High School in Carmel, Indiana and graduated with the Class of 2007. He enrolled at Columbia College Chicago to study film and psychology but dropped out in 2008. Later, Lloyd attended comic conventions as a media guest, signing autographs and taking pictures with fans. He also started his own production company called Pumpkin Pact Productions [us]. Before long, Lloyd\u0027s mother, Lisa Flowers Broadbent, revealed to TMZ he suffers from schizophrenia and he was diagnosed back in 2008. In April 2016, Lloyd was transferred to a psychiatric facility.After serving 11 months behind bars at Colleton County Detention Center in Walterboro, South Carolina, Lloyd was released from jail. Since his 2015 arrest, he has not done any interviews, made any public appearances nor been present on social media.",
+    "c_birthDate": "1989-03-05",
+    "c_birthPlace": "Fort Collins, Colorado, USA",
+    "c_filmography": [
+      {
+        "characterName": "Anakin Skywalker",
+        "movie": [
+          "tt0120915"
+        ]
+      }
+    ],
+    "c_height": "5\u0027 5",
+    "name": "Jake Lloyd",
+    "primaryPhoto": {
+      "image": {
+        "height": 235,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BMTk2MDExNzQwN15BMl5BanBnXkFtZTgwMzM2NzQwNjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "thumbnails": [
+          {
+            "height": 235,
+            "url": "https://a.mktgcdn.com/p-sandbox/tJ8NVku3wjU5koXE-zlxKMU4mpCCM7f6cMFd2nyp774/167x235.jpg",
+            "width": 167
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/tJ8NVku3wjU5koXE-zlxKMU4mpCCM7f6cMFd2nyp774/167x235.jpg",
+        "width": 167
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

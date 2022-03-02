@@ -1,0 +1,27 @@
+{
+  "$id": "answersIndexing81085",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "answers",
+  "fields": [
+    "uid",
+    "id",
+    "timezone",
+    "meta",
+    "savedFilters",
+    "c_bio",
+    "c_filmography.characterName",
+    "c_filmography.movie.name",
+    "name"
+  ],
+  "filter": {
+    "entityTypes": [
+      "ce_actor"
+    ]
+  },
+  "localization": {
+    "locales": [
+      "en"
+    ]
+  }
+}

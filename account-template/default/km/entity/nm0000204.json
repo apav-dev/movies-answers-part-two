@@ -1,0 +1,38 @@
+{
+  "$id": "nm0000204",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Natalie Portman is the first person born in the 1980s to have won the Academy Award for Best Actress (for Black Swan (2010)).Natalie was born Natalie Hershlag on June 9, 1981, in Jerusalem, Israel. She is the only child of Avner Hershlag, a Israeli-born doctor, and Shelley Stevens, an American-born artist (from Cincinnati, Ohio), who also acts as Natalie\u0027s agent. Her parents are both of Ashkenazi Jewish descent. Natalie\u0027s family left Israel for Washington, D.C., when she was still very young. After a few more moves, her family finally settled in New York, where she still lives to this day. She graduated with honors, and her academic achievements allowed her to attend Harvard University. She was discovered by an agent in a pizza parlor at the age of 11. She was pushed towards a career in modeling but she decided that she would rather pursue a career in acting. She was featured in many live performances, but she made her powerful film debut in the movie Léon (1994) (aka \"Léon\"). Following this role Natalie won roles in such films as Heat (1995), Beautiful Girls (1996), and Mars Attacks! (1996).It was not until 1999 that Natalie received worldwide fame as Queen Amidala in the highly anticipated US$431 million-grossing prequel Star Wars: Episode I - The Phantom Menace (1999). She then she starred in two critically acclaimed comedy dramas, Anywhere But Here (1999) and Where the Heart Is (2000), followed by Closer (2004), for which she received an Oscar nomination. She reprised her role as Padme Amidala in the last two episodes of the Star Wars prequel trilogy: Star Wars: Episode II - Attack of the Clones (2002) and Star Wars: Episode III - Revenge of the Sith (2005). She received an Academy Award and a Golden Globe Award for Best Actress in Black Swan (2010).She received a second nomination for Best Actress, for playing Jacqueline Kennedy in Jackie (2016).",
+    "c_birthDate": "1981-06-09",
+    "c_birthPlace": "Jerusalem, Israel",
+    "c_filmography": [
+      {
+        "characterName": "Padmé Amidala",
+        "movie": [
+          "tt0120915"
+        ]
+      }
+    ],
+    "c_height": "5\u0027 3",
+    "name": "Natalie Portman",
+    "primaryPhoto": {
+      "image": {
+        "height": 239,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BMTQ3ODE3Mjg1NV5BMl5BanBnXkFtZTcwNzA4ODcxNA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "thumbnails": [
+          {
+            "height": 239,
+            "url": "https://a.mktgcdn.com/p-sandbox/Pll48jlbLWkXqQyCq6iw5MmxQ-Pe9XrgUPklWHdvb40/170x239.jpg",
+            "width": 170
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/Pll48jlbLWkXqQyCq6iw5MmxQ-Pe9XrgUPklWHdvb40/170x239.jpg",
+        "width": 170
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

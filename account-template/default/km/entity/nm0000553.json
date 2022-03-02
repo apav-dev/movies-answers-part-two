@@ -1,0 +1,38 @@
+{
+  "$id": "nm0000553",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Liam Neeson was born on June 7, 1952 in Ballymena, Northern Ireland, to Katherine (Brown), a cook, and Bernard Neeson, a school caretaker. He was raised in a Catholic household. During his early years, Liam worked as a forklift operator for Guinness, a truck driver, an assistant architect and an amateur boxer. He had originally sought a career as a teacher by attending St. Mary\u0027s Teaching College, Newcastle. However, in 1976, Neeson joined the Belfast Lyric Players\u0027 Theater and made his professional acting debut in the play \"The Risen People\". After two years, Neeson moved to Dublin\u0027s Abbey Theater where he performed the classics. It was here that he was spotted by director John Boorman and was cast in the film Excalibur (1981) as Sir Gawain, his first high-profile film role.Through the 1980s Neeson appeared in a handful of films and British TV series - including The Bounty (1984), A Woman of Substance (1984), The Mission (1986), and Duet for One (1986) - but it was not until he moved to Hollywood to pursue larger roles that he began to get noticed. His turn as a mute homeless man in Suspect (1987) garnered good reviews, as did supporting roles in The Good Mother (1988) and High Spirits (1988) - though he also starred in the best-to-be-forgotten Satisfaction (1988), which also featured a then-unknown Julia Roberts - but leading man status eluded him until the cult favorite Darkman (1990), directed by Sam Raimi. From there, Neeson starred in Under Suspicion (1991) and Ethan Frome (1993), was hailed for his performance in Woody Allen\u0027s Husbands and Wives (1992), and ultimately was picked by Steven Spielberg to play Oskar Schindler in Schindler\u0027s List (1993). The starring role in the Oscar-winning Holocaust film brought Neeson Academy Award, BAFTA and Golden Globe nominations for Best Actor.Also in 1993, he made his Broadway debut with a Tony-nominated performance in \"Anna Christie\", in which he co-starred with his future wife Natasha Richardson. The next year, the two also starred opposite Jodie Foster in the movie Nell (1994), and were married in July of that year. Leading roles as the 18th century Scottish Highlander Rob Roy (1995) and the Irish revolutionary leader Michael Collins (1996) followed, and soon Neeson was solidified as one of Hollywood\u0027s top leading men. He starred in the highly-anticipated Star Wars: Episode I - The Phantom Menace (1999) as Qui-Gon Jinn, received a Golden Globe nomination for Kinsey (2004), played the mysterious Ducard in Christopher Nolan\u0027s Batman Begins (2005), and provided the voice for Aslan in The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005).Neeson found a second surprise career as an action leading man with the release of Taken (2008) in early 2009, an unexpected box office hit about a retired CIA agent attempting to rescue his daughter from being sold into prostitution. However, less than two months after the release of the film, tragedy struck when his wife Natasha Richardson suffered a fatal head injury while skiing and passed away days afterward. Neeson returned to high-profile roles in 2010 with two back-to-back big-budget films, Clash of the Titans (2010) and The A-Team (2010), and returned to the action genre with Unknown (2011), The Grey (2011), Battleship (2012) and Taken 2 (2012), as well as the sequel Wrath of the Titans (2012).Neeson was awarded Officer of the Order of the British Empire in the 1999 Queen\u0027s New Year\u0027s Honours List for his services to drama. He has two sons from his marriage to Richardson: Micheal Richard Antonio Neeson (born June 22, 1995) and Daniel Jack Neeson (born August 27, 1996).",
+    "c_birthDate": "1952-06-07",
+    "c_birthPlace": "Ballymena, Co. Antrim, Northern Ireland, UK",
+    "c_filmography": [
+      {
+        "characterName": "Qui-Gon Jinn",
+        "movie": [
+          "tt0120915"
+        ]
+      }
+    ],
+    "c_height": "6\u0027 4",
+    "name": "Liam Neeson",
+    "primaryPhoto": {
+      "image": {
+        "height": 176,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BMjA1MTQ3NzU1MV5BMl5BanBnXkFtZTgwMDE3Mjg0MzE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "thumbnails": [
+          {
+            "height": 176,
+            "url": "https://a.mktgcdn.com/p-sandbox/SnJnsXfCQ305iT82OJKhvorV0o3Rswns_JuvPsmeIfU/126x176.jpg",
+            "width": 126
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/SnJnsXfCQ305iT82OJKhvorV0o3Rswns_JuvPsmeIfU/126x176.jpg",
+        "width": 126
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

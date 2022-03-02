@@ -1,0 +1,43 @@
+{
+  "$id": "nm0547349",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Eli Marienthal was born on March 6, 1986, in Santa Monica, California, though he has lived most of his life in Berkeley. His career started in Bay Area theatres, where he has performed in \"Missing Persons,\" \"The Cryptogram,\" \"Hecuba,\" \"A Midsummer Night\u0027s Dream,\" \"Every 17 Minutes the Crowd Goes Crazy,\" and \"The Life of Galileo.\" His parents\u0027 names are Joe and Lola, and he currently lives with his mother in Berkeley, though during the 3rd and 4th grades he spent some time in Paris with his father. He graduated from the private East Bay French-American School, where all the students learn to speak fluent French and attend classes in two languages.",
+    "c_birthDate": "1986-03-06",
+    "c_birthPlace": "Santa Monica, CA, USA",
+    "c_filmography": [
+      {
+        "characterName": "Hogarth Hughes",
+        "movie": [
+          "tt0129167"
+        ]
+      }
+    ],
+    "c_height": "5\u002711",
+    "name": "Eli Marienthal",
+    "primaryPhoto": {
+      "image": {
+        "height": 299,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BMjIwOTc5MTE1Nl5BMl5BanBnXkFtZTcwODI4MTcyOA@@._V1_UY317_CR9,0,214,317_AL_.jpg",
+        "thumbnails": [
+          {
+            "height": 299,
+            "url": "https://a.mktgcdn.com/p-sandbox/ZPrP70Tn3tOcNruNBZw0VTvcYbZfcEvbjrMPmcfKVfo/214x299.jpg",
+            "width": 214
+          },
+          {
+            "height": 274,
+            "url": "https://a.mktgcdn.com/p-sandbox/ZPrP70Tn3tOcNruNBZw0VTvcYbZfcEvbjrMPmcfKVfo/196x274.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/ZPrP70Tn3tOcNruNBZw0VTvcYbZfcEvbjrMPmcfKVfo/214x299.jpg",
+        "width": 214
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

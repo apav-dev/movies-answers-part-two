@@ -1,0 +1,72 @@
+{
+  "$id": "tt0120601",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "c_mpaRating": "R",
+    "c_poster": {
+      "height": 2520,
+      "sourceUrl": "https://a.mktgcdn.com/p-sandbox/VASS_JDtg0Uv4jOcZ-FtyNGNeh6cJ7lZRxFuOuH8S-E/1800x2700.jpg",
+      "thumbnails": [
+        {
+          "height": 2520,
+          "url": "https://a.mktgcdn.com/p-sandbox/tFiWobQe7iwB-Et7eDbNXT_zv14qIj8K3huoTOxgW6I/1800x2520.jpg",
+          "width": 1800
+        },
+        {
+          "height": 1900,
+          "url": "https://a.mktgcdn.com/p-sandbox/tFiWobQe7iwB-Et7eDbNXT_zv14qIj8K3huoTOxgW6I/1357x1900.jpg",
+          "width": 1357
+        },
+        {
+          "height": 867,
+          "url": "https://a.mktgcdn.com/p-sandbox/tFiWobQe7iwB-Et7eDbNXT_zv14qIj8K3huoTOxgW6I/619x867.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/tFiWobQe7iwB-Et7eDbNXT_zv14qIj8K3huoTOxgW6I/321x450.jpg",
+          "width": 321
+        },
+        {
+          "height": 274,
+          "url": "https://a.mktgcdn.com/p-sandbox/tFiWobQe7iwB-Et7eDbNXT_zv14qIj8K3huoTOxgW6I/196x274.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/tFiWobQe7iwB-Et7eDbNXT_zv14qIj8K3huoTOxgW6I/1800x2520.jpg",
+      "width": 1800
+    },
+    "c_runtime": "113",
+    "c_stars": [
+      {
+        "actor": [
+          "nm0000131"
+        ],
+        "role": "Craig Schwartz"
+      },
+      {
+        "actor": [
+          "nm0000139"
+        ],
+        "role": "Lotte Schwartz"
+      },
+      {
+        "actor": [
+          "nm0068709"
+        ],
+        "role": "Derek Mantini"
+      }
+    ],
+    "c_tagline": "Ever wanted to be someone else? Now you can.",
+    "description": "One day at work, unsuccessful puppeteer Craig finds a portal into the head of actor John Malkovich. The portal soon becomes a passion for anybody who enters its mad and controlling world of overtaking another human body.",
+    "name": "Being John Malkovich"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

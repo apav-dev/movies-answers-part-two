@@ -1,0 +1,68 @@
+{
+  "$id": "tt0134119",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_genres": [
+      "Thriller",
+      "Crime",
+      "Drama",
+      "Action"
+    ],
+    "c_mpaRating": "R",
+    "c_poster": {
+      "height": 1400,
+      "sourceUrl": "https://a.mktgcdn.com/p-sandbox/ec_lY1LekuwW1tOmpk2XHbPYrDJfrnGdIJLdHOETtK0/1000x1500.jpg",
+      "thumbnails": [
+        {
+          "height": 1400,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZA2SL_PV4K4g6hP25x4oSeUJbm8HnLzVxv07awJ416s/1000x1400.jpg",
+          "width": 1000
+        },
+        {
+          "height": 867,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZA2SL_PV4K4g6hP25x4oSeUJbm8HnLzVxv07awJ416s/619x867.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZA2SL_PV4K4g6hP25x4oSeUJbm8HnLzVxv07awJ416s/321x450.jpg",
+          "width": 321
+        },
+        {
+          "height": 274,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZA2SL_PV4K4g6hP25x4oSeUJbm8HnLzVxv07awJ416s/196x274.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/ZA2SL_PV4K4g6hP25x4oSeUJbm8HnLzVxv07awJ416s/1000x1400.jpg",
+      "width": 1000
+    },
+    "c_runtime": "139",
+    "c_stars": [
+      {
+        "actor": [
+          "nm0000354"
+        ],
+        "role": "Tom Ripley"
+      },
+      {
+        "actor": [
+          "nm0000569"
+        ],
+        "role": "Marge Sherwood"
+      },
+      {
+        "actor": [
+          "nm0000179"
+        ],
+        "role": "Dickie Greenleaf"
+      }
+    ],
+    "c_tagline": "How far would you go to become someone else?",
+    "description": "Tom Ripley is a calculating young man who believes it\u0027s better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder.",
+    "name": "The Talented Mr. Ripley"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

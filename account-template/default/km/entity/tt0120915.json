@@ -1,0 +1,68 @@
+{
+  "$id": "tt0120915",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Fantasy"
+    ],
+    "c_mpaRating": "PG",
+    "c_poster": {
+      "height": 1400,
+      "sourceUrl": "https://a.mktgcdn.com/p-sandbox/jCKAQKn4VbVRbYP_Ke9jZVu5j9TbQ5WAXwm3gYw0iGE/1000x1500.jpg",
+      "thumbnails": [
+        {
+          "height": 1400,
+          "url": "https://a.mktgcdn.com/p-sandbox/nh3qGSHFlnSRYf3UQs-HPv1Mee3YjNFp7rl7-NSmYn0/1000x1400.jpg",
+          "width": 1000
+        },
+        {
+          "height": 867,
+          "url": "https://a.mktgcdn.com/p-sandbox/nh3qGSHFlnSRYf3UQs-HPv1Mee3YjNFp7rl7-NSmYn0/619x867.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/nh3qGSHFlnSRYf3UQs-HPv1Mee3YjNFp7rl7-NSmYn0/321x450.jpg",
+          "width": 321
+        },
+        {
+          "height": 274,
+          "url": "https://a.mktgcdn.com/p-sandbox/nh3qGSHFlnSRYf3UQs-HPv1Mee3YjNFp7rl7-NSmYn0/196x274.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/nh3qGSHFlnSRYf3UQs-HPv1Mee3YjNFp7rl7-NSmYn0/1000x1400.jpg",
+      "width": 1000
+    },
+    "c_runtime": "133",
+    "c_stars": [
+      {
+        "actor": [
+          "nm0000553"
+        ],
+        "role": "Qui-Gon Jinn"
+      },
+      {
+        "actor": [
+          "nm0005157"
+        ],
+        "role": "Anakin Skywalker"
+      },
+      {
+        "actor": [
+          "nm0000204"
+        ],
+        "role": "Queen Amidala / Padmé"
+      }
+    ],
+    "c_tagline": "Every generation has a legend. Every journey has a first step. Every saga has a beginning.",
+    "description": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
+    "name": "Star Wars: Episode I - The Phantom Menace"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

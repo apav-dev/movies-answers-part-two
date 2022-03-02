@@ -1,0 +1,38 @@
+{
+  "$id": "nm0005466",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Lovely, slim-eyed blonde Julia (O\u0027Hara) Stiles, of Irish, English and German heritage, was born on March 28, 1981 in New York City, the outgoing daughter and eldest of three children of a Greenwich Village artist mother, Judith Newcomb Stiles, and an elementary school teacher father, John O\u0027Hara.Encouraged to take modern dance lessons, she was introduced to Shakespeare and theater at an early age. When she was 11, she made her stage debut as a child actress with the experimental off-Broadway La MaMa Theatre. Her passion grew and by the next year was performing professionally and working in commercials. A bright, precocious student, she was seriously considered for the child vampire role of Claudia in Interview with the Vampire: The Vampire Chronicles (1994) but lost out in the end to Kirsten Dunst. She continued training at New York\u0027s Professional Children\u0027s School and, at 15, made her cinematic bow with I Love You, I Love You Not (1996) with Claire Danes.Julia was next featured as the daughter of Harrison Ford in The Devil\u0027s Own (1997), with her breakout role occurring on TV with the hard-hitting mini-movie Before Women Had Wings (1997), which was produced by Oprah Winfrey and dealt with child abuse. Her wish to play Shakespeare was granted threefold with her participation in 10 Things I Hate About You (1999), which was based on the Bard\u0027s \"The Taming of The Shrew\" and earned her the Chicago Film Critics Award as volatile teen Kat; an updated version of Hamlet (2000) which paired her Ophelia with Ethan Hawke; and another updated version of \"Othello\" entitled O (2001), which involved her high school character of Desi (Desdemona) in a mixed romantic relationship with African-American Mekhi Phifer. The violent-edged film, made in 1998, was not released until three years later due to the Colorado shootings at Columbine High School.In addition, Julia later portrayed Viola off-Broadway in a Shakespeare-in-the-Park production of \"Twelfth Night\" in 2002. She temporarily interrupted her career after deciding to enroll at Columbia University in 2000, where she earned a degree in English. Stiles has also returned to the stage, appearing in David Mamet\u0027s \"Oleanna\" in London, a role she would reprise on Broadway in 2009, opposite Bill Pullman and directed by Doug Hughes.Moving into mainstream roles by the millennium, Julia took on a role that would carry her through the decade, co-starring with Matt Damon in popular Bourne series: The Bourne Identity (2002), The Bourne Supremacy (2004) and The Bourne Ultimatum (2007). During the time between Bourne films, she appeared in ensemble dramas, appearing opposite Julia Roberts in Mona Lisa Smile (2003), won offbeat notice in the title role of Carolina (2003) with Shirley MacLaine and Randy Quaid. She also returned to her indie film roots, with films such as Between Us (2012) and the comedy farce, It\u0027s a Disaster (2012).In 2010, Julia switched gears and headed to series television, joining the cast of Dexter (2006) for the show\u0027s fifth season as Lumen Pierce, a performance that earned her Emmy and Golden Globe support nominations. In 2012, she followed this up with leads in two other TV series, the social drama Blue (2012) and the dramatic thriller Riviera (2017).Married to camera assistant Preston Cook and with one son, Julia\u0027s more recent filming has included prominent roles in The Great Gilly Hopkins (2015), Misconduct (2016), Jason Bourne (2016), Trouble (2017), Hustlers (2019) and The God Committee (2021).e recent work includes",
+    "c_birthDate": "1981-03-28",
+    "c_birthPlace": "New York City, New York, USA",
+    "c_filmography": [
+      {
+        "characterName": "Kat Stratford",
+        "movie": [
+          "tt0147800"
+        ]
+      }
+    ],
+    "c_height": "5\u0027 7",
+    "name": "Julia Stiles",
+    "primaryPhoto": {
+      "image": {
+        "height": 254,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BMTgxNjUxNDk3MF5BMl5BanBnXkFtZTcwMzM0NjA0NA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "thumbnails": [
+          {
+            "height": 254,
+            "url": "https://a.mktgcdn.com/p-sandbox/twtn76nbubTyPD-ovHPMmGs5MCXXDc6ncsJR985tp3s/182x254.jpg",
+            "width": 182
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/twtn76nbubTyPD-ovHPMmGs5MCXXDc6ncsJR985tp3s/182x254.jpg",
+        "width": 182
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

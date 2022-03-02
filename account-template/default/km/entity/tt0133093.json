@@ -1,0 +1,71 @@
+{
+  "$id": "tt0133093",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "c_mpaRating": "R",
+    "c_poster": {
+      "height": 2800,
+      "sourceUrl": "https://a.mktgcdn.com/p-sandbox/ZTBTvyHQ2yaVHhSN1PpbE310oKKdVgzjNSc_lnCct2w/2000x3000.jpg",
+      "thumbnails": [
+        {
+          "height": 2800,
+          "url": "https://a.mktgcdn.com/p-sandbox/lkxZxQ6pyzyZQ4eYXM0y2WWKAJdA8DPhXL0MBgGK3tw/2000x2800.jpg",
+          "width": 2000
+        },
+        {
+          "height": 1900,
+          "url": "https://a.mktgcdn.com/p-sandbox/lkxZxQ6pyzyZQ4eYXM0y2WWKAJdA8DPhXL0MBgGK3tw/1357x1900.jpg",
+          "width": 1357
+        },
+        {
+          "height": 867,
+          "url": "https://a.mktgcdn.com/p-sandbox/lkxZxQ6pyzyZQ4eYXM0y2WWKAJdA8DPhXL0MBgGK3tw/619x867.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/lkxZxQ6pyzyZQ4eYXM0y2WWKAJdA8DPhXL0MBgGK3tw/321x450.jpg",
+          "width": 321
+        },
+        {
+          "height": 274,
+          "url": "https://a.mktgcdn.com/p-sandbox/lkxZxQ6pyzyZQ4eYXM0y2WWKAJdA8DPhXL0MBgGK3tw/196x274.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/lkxZxQ6pyzyZQ4eYXM0y2WWKAJdA8DPhXL0MBgGK3tw/2000x2800.jpg",
+      "width": 2000
+    },
+    "c_runtime": "136",
+    "c_stars": [
+      {
+        "actor": [
+          "nm0000206"
+        ],
+        "role": "Neo"
+      },
+      {
+        "actor": [
+          "nm0005251"
+        ],
+        "role": "Trinity"
+      },
+      {
+        "actor": [
+          "nm0000401"
+        ],
+        "role": "Morpheus"
+      }
+    ],
+    "c_tagline": "Welcome to the Real World.",
+    "description": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "name": "The Matrix"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

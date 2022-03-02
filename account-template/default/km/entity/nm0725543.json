@@ -1,0 +1,53 @@
+{
+  "$id": "nm0725543",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Donald Jay Rickles was born May 8, 1926 in New York. Following the Golden Era of Hollywood, he remained active until early 2017. He got his start in night clubs, toiling for over 20 years, until 1958, when he made his film debut in Run Silent Run Deep (1958). The movie was a big hit. Afterward, Rickles continued acting, starring in films like The Man with the X-Ray Eyes (1963), Bikini Beach (1964), Enter Laughing (1967), and Kelly\u0027s Heroes (1970). In 1973, Don became a regular on Dean Martin\u0027s Celebrity Roasts.From 1973-84, he appeared frequently on Dean\u0027s show, paying tribute to some of his friends, like Bob Hope, Frank Sinatra, Lucille Ball, and was even the roast master on the roast for Dean Martin himself. In 1976, he had his own TV series CPO Sharkey (1976), which enjoyed a two year run. After 1984, he slowed down, appearing in a few minor film roles. In 1995, he made a comeback, appearing with Tom Hanks and Tim Allen in Toy Story (1995) in the role of the grouchy Mr. Potato Head. In 1999, he returned as Mr. Potato Head in Toy Story 2 (1999). He died on April 6, 2017, in Los Angeles, California, aged 90. He is interred at Mount Sinai Memorial Park in Los Angeles, California, in the Courts of Tanach.",
+    "c_birthDate": "5/8/26",
+    "c_birthPlace": "New York City, New York, USA",
+    "c_filmography": [
+      {
+        "characterName": "Mr. Potato Head",
+        "movie": [
+          "tt0120363"
+        ]
+      }
+    ],
+    "c_height": "5\u00276",
+    "name": "Don Rickles",
+    "primaryPhoto": {
+      "image": {
+        "height": 1050,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Don_Rickles_1.jpg",
+        "thumbnails": [
+          {
+            "height": 1050,
+            "url": "https://a.mktgcdn.com/p-sandbox/hr4LYTDnpLYPsSZ-CrxAN483aN38Jqm-2sFOzIZb0lU/750x1050.jpg",
+            "width": 750
+          },
+          {
+            "height": 867,
+            "url": "https://a.mktgcdn.com/p-sandbox/hr4LYTDnpLYPsSZ-CrxAN483aN38Jqm-2sFOzIZb0lU/619x867.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/hr4LYTDnpLYPsSZ-CrxAN483aN38Jqm-2sFOzIZb0lU/321x450.jpg",
+            "width": 321
+          },
+          {
+            "height": 274,
+            "url": "https://a.mktgcdn.com/p-sandbox/hr4LYTDnpLYPsSZ-CrxAN483aN38Jqm-2sFOzIZb0lU/196x274.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/hr4LYTDnpLYPsSZ-CrxAN483aN38Jqm-2sFOzIZb0lU/750x1050.jpg",
+        "width": 750
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

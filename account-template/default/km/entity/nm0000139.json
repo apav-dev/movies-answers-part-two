@@ -1,0 +1,38 @@
+{
+  "$id": "nm0000139",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "A tall, strikingly attractive blue-eyed natural blonde, Cameron Diaz was born in 1972 in San Diego, the daughter of a Cuban-American father and a German mother. Self described as \"adventurous, independent and a tough kid,\" Cameron left home at 16 and for the next 5 years lived in such varied locales as Japan, Australia, Mexico, Morocco, and Paris. Returning to California at the age of 21, she was working as a model when she auditioned for a big part in The Mask (1994). To her amazement and despite having no previous acting experience, she was cast as the female lead in the film opposite Jim Carrey. Over the next 3 years, she honed her acting skills in such low budget independent films as The Last Supper (1995); Feeling Minnesota (1996); and Head Above Water (1996). She returned to main stream films in My Best Friend\u0027s Wedding (1997), in which she held her own against veteran actress Julia Roberts. She earned full fledged star status in 1998 for her performance in the box office smash There\u0027s Something About Mary (1998). With her name near the top on virtually every list of Hollyood\u0027s sexiest actresses, and firmly established as one of filmdom\u0027s hottest properties and most sought after actresses, Cameron Diaz appears to possess everything necessary to become one of the super stars of the new century.",
+    "c_birthDate": "1972-08-30",
+    "c_birthPlace": "San Diego, California, USA",
+    "c_filmography": [
+      {
+        "characterName": "Lotte Schwartz",
+        "movie": [
+          "tt0120601"
+        ]
+      }
+    ],
+    "c_height": "5\u0027 8½",
+    "name": "Cameron Diaz",
+    "primaryPhoto": {
+      "image": {
+        "height": 268,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "thumbnails": [
+          {
+            "height": 268,
+            "url": "https://a.mktgcdn.com/p-sandbox/2nPcgDXV4ce3Yuu-z6zpYTY440j4q6Egwc-o3h2J4rw/182x268.jpg",
+            "width": 182
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/2nPcgDXV4ce3Yuu-z6zpYTY440j4q6Egwc-o3h2J4rw/182x268.jpg",
+        "width": 182
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

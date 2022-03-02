@@ -1,0 +1,16 @@
+{
+  "$id": "ce_movie.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Movie-default",
+  "entityType": "ce_movie",
+  "fields": [
+    "c_genres",
+    "c_mpaRating",
+    "c_poster",
+    "c_runtime",
+    "c_stars",
+    "c_tagline",
+    "description"
+  ],
+  "required": []
+}

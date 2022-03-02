@@ -1,0 +1,38 @@
+{
+  "$id": "nm0000098",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Jennifer Aniston was born in Sherman Oaks, California, to actors John Aniston and Nancy Dow. Her father is Greek, and her mother was of English, Irish, Scottish, and Italian descent. Jennifer spent a year of her childhood living in Greece with her family. Her family then relocated to New York City where her parents divorced when she was nine. Jennifer was raised by her mother and her father landed a role, as \"Victor Kiriakis\", on the daytime soap Days of Our Lives (1965). Jennifer had her first taste of acting at age 11 when she joined the Rudolf Steiner School\u0027s drama club. It was also at the Rudolf Steiner School that she developed her passion for art. She began her professional training as a drama student at New York\u0027s School of Performing Arts, aka the \"Fame\" school. It was a division of Fiorello H. LaGuardia High School of Music and the Arts. In 1987, after graduation, she appeared in such Off-Broadway productions as \"For Dear Life\" and \"Dancing on Checker\u0027s Grave\". In 1990, she landed her first television role, as a series regular on Molloy (1990). She also appeared in The Edge (1992), Ferris Bueller (1990), and had a recurring part on Herman\u0027s Head (1991). By 1993, she was floundering. Then, in 1994, a pilot called \"Friends Like These\" came along. Originally asked to audition for the role of \"Monica\", Aniston refused and auditioned for the role of \"Rachel Green\", the suburban princess turned coffee peddler. With the success of the series Friends (1994), Jennifer has become famous and sought-after as she turns her fame into movie roles during the series hiatus.",
+    "c_birthDate": "1969-02-11",
+    "c_birthPlace": "Sherman Oaks, California, USA",
+    "c_filmography": [
+      {
+        "characterName": "Annie Hughes",
+        "movie": [
+          "tt0129167"
+        ]
+      }
+    ],
+    "c_height": "5\u0027 4½",
+    "name": "Jennifer Aniston",
+    "primaryPhoto": {
+      "image": {
+        "height": 268,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BNjk1MjIxNjUxNF5BMl5BanBnXkFtZTcwODk2NzM4Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "thumbnails": [
+          {
+            "height": 268,
+            "url": "https://a.mktgcdn.com/p-sandbox/Z7NDv0auhlq1bX2X7ryJrVfYRcmU1zZPvsqyrE0bm8w/182x268.jpg",
+            "width": 182
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/Z7NDv0auhlq1bX2X7ryJrVfYRcmU1zZPvsqyrE0bm8w/182x268.jpg",
+        "width": 182
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

@@ -1,0 +1,26 @@
+{
+  "$id": "streamsapi-answersIndexingApi",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "streamsapi",
+  "fields": [
+    "c_birthDate",
+    "c_birthPlace",
+    "c_height",
+    "c_mpaRating",
+    "c_stars",
+    "id",
+    "meta"
+  ],
+  "filter": {
+    "entityTypes": [
+      "ce_movie",
+      "ce_actor"
+    ]
+  },
+  "localization": {
+    "locales": [
+      "en"
+    ]
+  }
+}

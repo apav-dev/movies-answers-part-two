@@ -1,0 +1,40 @@
+{
+  "$id": "c_star",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "Star",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "role",
+          "displayName": "Role",
+          "isRequired": true,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "actor",
+          "displayName": "Actor",
+          "isRequired": true,
+          "typeId": "list",
+          "type": {
+            "listType": {
+              "typeId": "entityReference",
+              "type": {
+                "entityReferenceType": {
+                  "supportedEntityTypeIds": [
+                    "ce_actor"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

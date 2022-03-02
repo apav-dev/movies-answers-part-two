@@ -1,0 +1,71 @@
+{
+  "$id": "tt0137523",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_genres": [
+      "Drama",
+      "Action"
+    ],
+    "c_mpaRating": "R",
+    "c_poster": {
+      "height": 2800,
+      "sourceUrl": "https://a.mktgcdn.com/p-sandbox/TEqahwQ8dvRy0XgtfrtlazCI9whwtsPH0dbDrvdiiG8/2000x3000.jpg",
+      "thumbnails": [
+        {
+          "height": 2800,
+          "url": "https://a.mktgcdn.com/p-sandbox/UD7u2XjgAjrYAJ6JYVDJrbh0JEMJ4UywssMyqDGUzJk/2000x2800.jpg",
+          "width": 2000
+        },
+        {
+          "height": 1900,
+          "url": "https://a.mktgcdn.com/p-sandbox/UD7u2XjgAjrYAJ6JYVDJrbh0JEMJ4UywssMyqDGUzJk/1357x1900.jpg",
+          "width": 1357
+        },
+        {
+          "height": 867,
+          "url": "https://a.mktgcdn.com/p-sandbox/UD7u2XjgAjrYAJ6JYVDJrbh0JEMJ4UywssMyqDGUzJk/619x867.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/UD7u2XjgAjrYAJ6JYVDJrbh0JEMJ4UywssMyqDGUzJk/321x450.jpg",
+          "width": 321
+        },
+        {
+          "height": 274,
+          "url": "https://a.mktgcdn.com/p-sandbox/UD7u2XjgAjrYAJ6JYVDJrbh0JEMJ4UywssMyqDGUzJk/196x274.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/UD7u2XjgAjrYAJ6JYVDJrbh0JEMJ4UywssMyqDGUzJk/2000x2800.jpg",
+      "width": 2000
+    },
+    "c_runtime": "139",
+    "c_stars": [
+      {
+        "actor": [
+          "nm0001570"
+        ],
+        "role": "The Narrator"
+      },
+      {
+        "actor": [
+          "nm0000093"
+        ],
+        "role": "Tyler Durden"
+      },
+      {
+        "actor": [
+          "nm0001533"
+        ],
+        "role": "Robert Paulsen"
+      }
+    ],
+    "c_tagline": "Mischief. Mayhem. Soap.",
+    "description": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "name": "Fight Club"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

@@ -1,0 +1,112 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "movies-search",
+  "name": "Movies Search",
+  "supportedLocales": [],
+  "countryRestrictions": [],
+  "verticals": {
+    "actors": {
+      "directAnswers": {
+        "fieldValues": {
+          "eligibleFields": [
+            "c_height",
+            "c_birthDate",
+            "c_birthPlace"
+          ],
+          "predictionMode": "CLASSIFIER"
+        }
+      },
+      "entityTypes": [
+        "ce_actor"
+      ],
+      "name": "Actors",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_filmography.characterName": {
+          "nlpFilter": true
+        },
+        "c_filmography.movie.name": {
+          "nlpFilter": true
+        },
+        "name": {
+          "phraseMatch": true,
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "movie": {
+      "directAnswers": {
+        "fieldValues": {
+          "eligibleFields": [
+            "c_mpaRating"
+          ],
+          "predictionMode": "CLASSIFIER"
+        }
+      },
+      "entityTypes": [
+        "ce_movie"
+      ],
+      "name": "Movies",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_genres": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "c_stars.actor.name": {
+          "nlpFilter": true
+        },
+        "c_stars.role": {
+          "nlpFilter": true
+        },
+        "c_tagline": {
+          "phraseMatch": true,
+          "textSearch": true
+        },
+        "name": {
+          "phraseMatch": true,
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    }
+  },
+  "synonyms": {
+    "oneWay": [],
+    "synonymSet": [
+      [
+        "mpa rating",
+        "rated",
+        "rating"
+      ],
+      [
+        "height ",
+        "tall"
+      ],
+      [
+        "birth place",
+        "born"
+      ]
+    ]
+  },
+  "localizations": {},
+  "additionalSearchablePlaces": [],
+  "querySuggestions": {
+    "disablePopularQueries": false,
+    "verticalPromptsOnEmpty": false,
+    "popularQueriesBlacklistedTerms": [],
+    "universalPrompts": [],
+    "verticalPrompts": {
+      "movie": [
+        "[[name]]"
+      ]
+    }
+  }
+}

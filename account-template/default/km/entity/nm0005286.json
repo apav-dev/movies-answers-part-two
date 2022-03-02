@@ -1,0 +1,38 @@
+{
+  "$id": "nm0005286",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Haley Joel Osment is an American actor who has proven himself as one of the best young actors of his generation. He is the first millennial male to have received an Academy Award nomination for acting.Osment was born in Los Angeles, California, to Theresa (Seifert), a teacher, and actor Eugene Osment. His sister is actress Emily Osment. His ancestry includes Irish, along with German and English/Scottish. Haley began acting at the age of four, when he tried out for a Pizza Hut commercial in a shopping mall. The commercial launched his career, and he landed his first television role later that year. As a young child, his first film role was as Forrest Gump (1994)\u0027s son, also named Forrest Gump, in the 1994 film of the same name as well as making a small appearance in Mixed Nuts (1994). He had roles in numerous TV series, including Thunder Alley (1994), The Jeff Foxworthy Show (1995), and, most notably, the final season of Murphy Brown (1988), in which he replaced Dyllan Christopher as Murphy\u0027s son Avery. Osment also made numerous guest appearances in various TV series, including The Larry Sanders Show (1992), Walker, Texas Ranger (1993) (as a child dying from AIDS), Touched by an Angel (1994), Chicago Hope (1994), The Pretender (1996), and as a child dying from leukemia in the emotional episode \u0027Angels and Blimps\u0027 (1999) of the series Ally McBeal (1997). Osment starred in Bogus (1996) with Whoopi Goldberg and Gérard Depardieu, and appeared in the 1998 made-for-TV movie The Lake (1998) with Yasmine Bleeth, as well as I\u0027ll Remember April (2000) with future The Sixth Sense (1999) co-star Trevor Morgan.He first achieved stardom in 1999 when he appeared in the blockbuster The Sixth Sense (1999), co-starring Bruce Willis. For this role, Osment won the Saturn Award for best young actor. He was also nominated for the Academy Award for Best Supporting Actor, but lost to Michael Caine, with whom he would later star in Secondhand Lions (2003). Osment (voice) also made three minor guest appearances on Family Guy (1999) in 2000. One of Osment\u0027s lines in The Sixth Sense (1999), \"I see dead people,\" is often repeated or parodied on television programs and in other media. The 2000 Academy Awards ceremony honored another of Osment\u0027s future co-stars, BestActor Kevin Spacey, who, along with Helen Hunt, appeared in Osment\u0027s next film, Pay It Forward (2000). The following year, Osment appeared in Steven Spielberg\u0027s A.I. Artificial Intelligence (2001), cementing his stature as one of the leading young actors in Hollywood. This role earned him his second Saturn Award. Also in 2001, Osment starred in a Polish film, Edges of the Lord (2001), as Romek. The movie was never released theatrically in the United States. Osment has since provided voices for The Country Bears (2002) and The Jungle Book 2 (2003). More recently, Osment was the voice of Sora, the main protagonist of the Walt Disney Company and Square-Enix\u0027s Kingdom Hearts (2002) video-game series, which was extremely financially successful as well and generally well-received critically. He was also the voice of Takeshi Jinno in the \"Time to Shine\" episode of the IGPX: Immortal Grand Prix (2005) anime TV series.Osment also worked in Home of the Giants (2007), playing a high school journalist opposite Ryan Merriman and Danielle Panabaker. He also played Helmuth Hübener in the film Truth \u0026 Treason (????). On July 20, 2006, Osment was injured in a one-car accident. His blood-alcohol content was measured at 0.16%, twice the legal limit in California. On August 18, he was charged with four misdemeanors, including driving under the influence of alcohol and possession of marijuana while driving. He pleaded no contest on October 19 and was sentenced to three years\u0027 probation, 60 hours in an alcohol-rehabilitation and education program, a fine of $1,500, and a minimum requirement of 26 Alcoholics Anonymous meetings over a six-month period.In 2006, Osment took a hiatus from Hollywood and studied acting at the Experimental Theatre Wing at NYU\u0027s Tisch School of the Arts, graduating with Honors and a Bachelor\u0027s Degree of Fine Arts in 2011. He also appeared on Broadway in a 2008 production of David Mamet\u0027s American Buffalo, and in John Logan\u0027s Red at the Philadelphia Theater Company in 2011.Osment returned to the screen in 2012 with I\u0027ll Follow You Down (2013), co-starring with Gillian Anderson, Rufus Sewell, and Victor Garber, Sassy Pants (2012) with Anna Gunn and Diedrich Bader, then appeared in two seasons of Amazon Studios\u0027 comedy series Alpha House (2013), written by Pulitzer Prize winner Garry Trudeau and starring John Goodman. His many additional credits include Comedy Bang! Bang!, Kevin Smith\u0027s horror comedies Tusk (2014) and Yoga Hosers (2016), Entourage (2015) (Warner Bros.\u0027 silver screen extension of the award-winning HBO dramedy), the award-winning independent comedy Sex Ed (2014), the hit FX series What We Do in the Shadows (2019), the Hulu science fiction comedy Future Man (2017), and the true crime thriller and 2019 Sundance Film Festival Selection Extremely Wicked, Shockingly Evil and Vile (2019) starring Zac Efron as Ted Bundy, and featuring Lily Collins, Kaya Scodelario, Jim Parsons, and John Malkovich.",
+    "c_birthDate": "1988-04-10",
+    "c_birthPlace": "Los Angeles, California, USA",
+    "c_filmography": [
+      {
+        "characterName": "Cole Sear",
+        "movie": [
+          "tt0167404"
+        ]
+      }
+    ],
+    "c_height": "5\u0027 6",
+    "name": "Haley Joel Osment",
+    "primaryPhoto": {
+      "image": {
+        "height": 143,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BZjY0MjRhNjEtNGVlYi00YzZhLWFhNDEtMjlhNjBiNzM3Y2RkXkEyXkFqcGdeQXVyMjQxMDQzMjA@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "thumbnails": [
+          {
+            "height": 143,
+            "url": "https://a.mktgcdn.com/p-sandbox/AxwnCEucJgShPY2eXUG4njmgP0u9eI453UCNhYTBQec/102x143.jpg",
+            "width": 102
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/AxwnCEucJgShPY2eXUG4njmgP0u9eI453UCNhYTBQec/102x143.jpg",
+        "width": 102
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

@@ -1,0 +1,38 @@
+{
+  "$id": "nm0005251",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Carrie-Anne Moss was born and raised in Vancouver, Canada. At age 20, after studying at the American Academy of Dramatic Arts, she moved to Europe to pursue a career in modeling. While in Spain she was cast in a regular role in the TV show Dark Justice which was produced in Barcelona for its first season. She followed the series to its new shooting location in Los Angeles the next year. Once in LA she began getting more opportunities, one of which was a TV series Matrix (which coincidentally presaged the movie that would later make her famous), another was being cast as a series regular for Aaron Spelling\u0027s television spectacle Models Inc.Carrie-Anne\u0027s work was already gaining traction throughout the motion picture casting community when the late great casting director Mali Finn invited Carrie-Anne to audition for The Wachowski\u0027s and their top secret sci-fi action project; that activated her explosive film career. The writer/directors recognized Carrie-Anne\u0027s empowered yet openhearted leading qualities and following a challenging process of physical and character screen tests they ultimately gave her the opportunity to create the iconic cyber warrior \"Trinity\" in the record breaking, award winning and internationally successful The Matrix trilogy for Warner Bros/Village Roadshow. Her extraordinary performance launched her on to the world stage alongside her \"One\" Keanu Reeves, in stride with Laurence Fishburne and the multifaceted Hugo Weaving. Carrie-Anne Moss galvanized her place in cinematic history as the first woman to triumphantly fight her way through one of the highest grossing sci-fi action franchises of all time.Directly following her phenomenal new-found success Carrie-Anne received a wide range of scripts from studios and A-list filmmakers but it was the complex screenplay Memento that stirred her creative senses. After meeting the then unknown writer/director Christopher Nolan it was without hesitation that she accepted the role of \"Natalie\" in Nolan\u0027s directorial debut. Starring opposite the unforgettable Guy Pearce, and produced by Jennifer \u0026 Suzanne Todd, Memento became one of the most critically acclaimed and, at that time, the largest grossing independent film in history. Carrie-Anne Moss\u0027s remarkable performance won her the coveted Spirit Award for Best Supporting Female that year.Many of Hollywood\u0027s prominent directors and producers continued to pursue her for films; she survived the Red Planet for Warner Bros; sweetened Lasse Hallström\u0027s multi Oscar nominated Chocolat with Juliette Binoche, Dame Judi Dench and Johnny Depp; and tracked Suspect Zero alongside Aaron Eckhart and the elusive Sir Ben Kingsley in the Cruise/Wagner produced film.But it was over the next years that Carrie-Anne took on the most important and rewarding role of her life, becoming a mother to her three children. During that same time Carrie-Anne also mothered on screen the watchful Shia LaBeouf in the rear window-esque DreamWorks box-office hit Disturbia; and together with Samuel L. Jackson, led the intense terrorist interrogation of Michael Sheen in Sony\u0027s Unthinkable.Carrie-Anne continued to accept many other lead roles on interesting film projects including The Chumscrubber with Ralph Fiennes and Glenn Close; the comedy noir Mini\u0027s First Time also starring Alec Baldwin and Luke Wilson; Snow Cake the touching drama with Sigourney Weaver and Alan Rickman; Fireflies in the Garden in the company of Ryan Reynolds, Julia Roberts and Willem Defoe; and the retro zombie rom-com Fido along with Billy Connelly and Dylan Baker. It is Carrie-Anne\u0027s inclination towards thought-provoking filmmakers that has inspired her to lend her success to many other indie projects including Normal, Silent Hill, Elephant Song, Pompeii, Brain on Fire, The Bye Bye Man and more...Throughout her career, Carrie-Anne has been attracted to compelling television projects as well, like Ryan Murphy\u0027s, before its time, one hour FOX pilot Pretty Handsome where she played the curious wife to a cross-dressing Joseph Fiennes while dealing with her society mother-in-law Blythe Danner; CBS\u0027s Vegas a sin city period piece playing Nevada\u0027s first woman District Attorney for James Mangold and Nicholas Pileggi, which also starred the lawful Dennis Quaid and gaming Michael Chiklis; and a guest starring arc throughout the second season of AMC\u0027s Humans, experimenting as a highly regarded scientist with a deeply personal agenda, working alongside Gemma Chan.Carrie-Anne Moss has recently completed her third and final season as the powerful and enduring attorney \"Jerry Hogarth\" navigating her way through the Marvel universe in Jessica Jones for Netflix opposite Krysten Ritter and for show runner Melissa Rosenberg. In between seasons she tucked into the first bi-lingual English/Norwegian detective crime series Wisting, as an FBI agent that is following the leads to catch a serial killer in the Norwegian landscape. Adapted from the popular William Wisting detective series by novelist Jørn Lier Horst, Wisting international sales are being handled by distributor Cinenord.Marvel\u0027s Jessica Jones season three is expected to launch on Netflix in the spring of 2019.--March 2019--",
+    "c_birthDate": "1967-08-21",
+    "c_birthPlace": "Vancouver, British Columbia, Canada",
+    "c_filmography": [
+      {
+        "characterName": "Trinity",
+        "movie": [
+          "tt0133093"
+        ]
+      }
+    ],
+    "c_height": "5\u00278 1/2",
+    "name": "Carrie-Anne Moss",
+    "primaryPhoto": {
+      "image": {
+        "height": 254,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BMTYxMjgwNzEwOF5BMl5BanBnXkFtZTcwNTQ0NzI5Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "thumbnails": [
+          {
+            "height": 254,
+            "url": "https://a.mktgcdn.com/p-sandbox/EjugIpHw5jjgn5mAQd8rZxNIuNeLGiX69pLL7zu3V6k/181x254.jpg",
+            "width": 181
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/EjugIpHw5jjgn5mAQd8rZxNIuNeLGiX69pLL7zu3V6k/181x254.jpg",
+        "width": 181
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

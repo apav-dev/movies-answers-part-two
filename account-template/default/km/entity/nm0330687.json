@@ -1,0 +1,38 @@
+{
+  "$id": "nm0330687",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Joseph Leonard Gordon-Levitt was born February 17, 1981 in Los Angeles, California, to Jane Gordon and Dennis Levitt. Joseph was raised in a Jewish family with his late older brother, Dan Gordon-Levitt, who passed away in October 2010. His parents worked for the Pacifica Radio station KPFK-FM and his maternal grandfather, Michael Gordon, had been a well-known movie director. Joseph first became well known for his starring role on NBC\u0027s award-winning comedy series 3rd Rock from the Sun (1996). During his six seasons on the show, he won two YoungStar Awards and also shared in three Screen Actors Guild Award® nominations for Outstanding Performance by a Comedy Series Ensemble.Prior to his success on television, Joseph had already worked steadily in feature films. Early in his career, he won a Young Artist Award for his first major role, in Robert Redford\u0027s drama A River Runs Through It (1992). During the 1990s, he also co-starred in the films Angels in the Outfield (1994), The Juror (1996), Halloween H20: 20 Years Later (1998), a well-reviewed slasher sequel, and 10 Things I Hate About You (1999), opposite Heath Ledger, which has become a teen comedy classic.Following his work on 3rd Rock, Joseph took time off from acting to attend Columbia University. In the early 2000s, he broke from the mold of his television and film comedy supporting roles by appearing in a string of intense dramatic parts, mostly in smaller, independent films, such as Manic (2001), with Don Cheadle; Mysterious Skin (2004), for writer/director Gregg Araki; Rian Johnson\u0027s award-winning debut, dramatic thriller Brick (2005) (2005); Lee Daniels\u0027 Shadowboxer (2005); the crime drama The Lookout (2007), which marked Scott Frank\u0027s directorial debut; John Madden\u0027s Killshot (2008), with Diane Lane and Mickey Rourke; Spike Lee\u0027s World War II film Miracle at St. Anna (2008); and the controversial drama Stop-Loss (2008), in which he starred with Ryan Phillippe, under the direction of Kimberly Peirce. By 2009, Joseph was officially established as one a new generation of leading men with his Golden Globe-nominated role in Marc Webb\u0027s comedy-drama 500 Days of Summer (2009), also starring Zooey Deschanel , for which he received Golden Globe, Independent Spirit Award and People\u0027s Choice Award nominations. He also adapted the Elmore Leonard short story Sparks (2009) into a 24-minute short film that he directed, which screened at the Sundance Film Festival.Beginning the new decade, he headlined the indie drama Hesher (2010) and established himself as an action star in Christopher Nolan\u0027s Inception (2010), also starring Leonardo DiCaprio, Marion Cotillard and Ellen Page. Balancing both independent and Hollywood film, Joseph scored another Golden Globe nod for the cancer drama 50/50 (2011), directed by Jonathan Levine and also starring Seth Rogen, Anna Kendrick, and Bryce Dallas Howard. He worked again with director Nolan on The Dark Knight Rises (2012), the third and final installment in the director\u0027s Batman series, for which he received a People\u0027s Choice Award nomination for Favorite Movie Actor; and snagged leading roles in both Premium Rush (2012), directed by David Koepp, and Looper (2012), reuniting with his Brick director, Rian Johnson, opposite Bruce Willis and Emily Blunt. Rounding out the year, he played Abraham Lincoln\u0027s son Robert in Steven Spielberg\u0027s Oscar-nominated Lincoln (2012), with Daniel Day-Lewis and Sally Field.In 2013, Gordon-Levitt starred in his critically-acclaimed feature film directorial debut, Don Jon (2013), from a script he wrote, opposite Scarlett Johansson and Julianne Moore. He was nominated for an Independent Spirit Award for \"Best First Screenplay\" for the film. He also provided the voice of Jiro Horikoshi in the 2014 English-language version of Hayao Miyazaki\u0027s Academy Award-nominated animated feature The Wind Rises (2013), and appeared in Robert Rodriguez and Frank Miller\u0027s Sin City: A Dame to Kill For (2014), in which he played Johnny, a character Miller created for the film. In 2015, he starred in The Walk (2015), directed by Robert Zemeckis, and in which he portrayed Philippe Pettit, and in 2016 headlined Oliver Stone\u0027s Snowden (2016).Joseph has completed production on Project Power (2020), Henry Joost/Ariel Schulman sci-fi film for Netflix, in which he stars opposite Jamie Foxx, and on the independent thriller, 7500 (2019), written and directed by Patrick Vollarth. Among his other projects, he will play attorney Richard Schultz in Aaron Sorkin\u0027s The Trial of the Chicago 7 (2020), and is in development on a variety of feature films including Fraggle Rock.Joseph has also founded and directs hitRECord, an open collaborative production. hitRECord creates and develops art and media collectively using their website where anyone with an internet connection can upload their records, download and remix others\u0027 records, and work on projects together. When the results of these RECords are produced and make a profit, hitRECord splits the profits 50/50 with everybody who contributed to the final production. hitRECord has published books, put out records, gone on tour and has screened their work at major festivals including Sundance and TIFF. The half-hour variety program, \"Hit Record on TV with Joseph Gordon-Levitt,\" which includes short films, live performances, music, animation, conversation and more, earned an Emmy Award for Creative Achievement in Interactive Media - Social TV Experience. hitRECord\u0027s project, \"Band Together with Logic,\" is a one-hour YouTube Originals special that sees Grammy-nominated rapper Logic open up his creative process like never before, inviting the world to collaborate with him on an original song and music video.In 2016, the ACLU honored Gordon-Levitt with their annual Bill of Rights Award for furthering diversity efforts, promoting free speech, empowering women and otherwise supporting civil rights and liberties for all Americans.",
+    "c_birthDate": "1981-02-17",
+    "c_birthPlace": "Los Angeles, California, USA",
+    "c_filmography": [
+      {
+        "characterName": "Cameron James",
+        "movie": [
+          "tt0147800"
+        ]
+      }
+    ],
+    "c_height": "5\u0027 9¼",
+    "name": "Joseph Gordon-Levitt",
+    "primaryPhoto": {
+      "image": {
+        "height": 254,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BMTY3NTk0NDI3Ml5BMl5BanBnXkFtZTgwNDA3NjY0MjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "thumbnails": [
+          {
+            "height": 254,
+            "url": "https://a.mktgcdn.com/p-sandbox/46U2hNoHMiKjHhmgmAuHAhz85m28RdGBmstaLw8ZGho/182x254.jpg",
+            "width": 182
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/46U2hNoHMiKjHhmgmAuHAhz85m28RdGBmstaLw8ZGho/182x254.jpg",
+        "width": 182
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

@@ -1,0 +1,38 @@
+{
+  "$id": "nm0001065",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Joseph Harry Fowler Connick, Jr. was born in New Orleans, Louisiana. He is the son of Anita Frances (Levy), a lawyer and judge, and Harry Connick, Sr. (Joseph Harry Fowler Connick), who served as District Attorney of New Orleans from 1973 to 2003. His father is of Irish, English, and German ancestry, and his maternal grandparents were Jewish immigrants from Vienna, Austria and Minsk, Belarus. Harry, Jr.\u0027s mother died of ovarian cancer when he was 13.His parents owned a record store and encouraged their son\u0027s interest in music - piano at age three, with a New Orleans jazz band aged ten. He won piano competitions while playing French Quarter clubs and attending the New Orleans Center for the Creative Arts. At eighteen, he studied at New York\u0027s Hunter College and later on at the Manhatan School of Music. At nineteen, he released his first album for Columbia Records and began an extended run performing at the Algonquin\u0027s Oak Room, followed a year later by his second album. He wrote the score and sang several songs for Rob Reiner\u0027s When Harry Met Sally (1989), the soundtrack for which went multi-platinum. So far, while bringing back swing and big band music, he has earned one gold, four platinum and three multi-platinum albums, plus two Grammies. His film acting debut was as B-17 tail-gunner Clay Busby in Memphis Belle (1990). He played mass-murderer Daryll Lee Cullum in the Sigourney Weaver and Holly Hunter film Copycat (1995) and Captain Jimmy Wilder (\"Let\u0027s kick the tires and light the fires, big daddy!\") in Independence Day (1996).Harry lives in Connecticut, is married to the former model Jill Goodacre, and has three daughters, Georgia Tatom, Sara Kate and Charlotte.",
+    "c_birthDate": "1967-09-11",
+    "c_birthPlace": "New Orleans, Louisiana, USA",
+    "c_filmography": [
+      {
+        "characterName": "Dean McCoppin",
+        "movie": [
+          "tt0129167"
+        ]
+      }
+    ],
+    "c_height": "6\u0027 1",
+    "name": "Harry Connick Jr.",
+    "primaryPhoto": {
+      "image": {
+        "height": 202,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BMjMwNjg0MTExOF5BMl5BanBnXkFtZTgwMTg4MTcxMDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://a.mktgcdn.com/p-sandbox/kCEuheKgf3M3leyKzm9iyaiXuNYIYkbKRau4ay3IHio/144x202.jpg",
+            "width": 144
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/kCEuheKgf3M3leyKzm9iyaiXuNYIYkbKRau4ay3IHio/144x202.jpg",
+        "width": 144
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

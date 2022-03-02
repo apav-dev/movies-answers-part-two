@@ -1,0 +1,38 @@
+{
+  "$id": "nm0000741",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Timothy Allen Dick was born on June 13, 1953, in Denver, Colorado, to Martha Katherine (Fox) and Gerald M. Dick. His father, a real estate salesman, was killed in a collision with a drunk driver while driving his family home from a University of Colorado football game, when Tim was eleven years old. His mother, a community service worker, remarried her high school sweetheart, an Episcopalian deacon, two years after Tim\u0027s father\u0027s death. He was raised with his many siblings and step-siblings. When Tim was young, his family moved to Birmingham, Michigan.In high school, his favorite subject was shop, of course, and after high school, he attended Western Michigan University and graduated with a degree in Television Production in 1975. In 1978, he was arrested on drug charges and spent two years in jail. Upon his release, he had a new outlook on life and on a dare from a friend, started his comedy career at the Comedy Castle in Detroit. Later, he went on to do several cable specials, including, Comedy\u0027s Dirtiest Dozen (1988) and Tim Allen: Men Are Pigs (1990). In 1991, he became the star of his own hit television series on ABC called Home Improvement (1991). While continuing to film his television series throughout most of the 1990s, he starred in a string of blockbuster movies, including The Santa Clause (1994), Toy Story (1995), Toy Story 2 (1999) and Galaxy Quest (1999). In August 1996, he developed and unveiled his own signature line of power tools, manufactured by Ryobi. On top of all that, he has his own racing team, Tim Allen/Saleen RRRRacing. In May 1999, he ended his series Home Improvement (1991) after eight seasons and in 2001, he filmed such movies as Big Trouble (2002) and Joe Somebody (2001).",
+    "c_birthDate": "1953-06-13",
+    "c_birthPlace": "Denver, Colorado, USA",
+    "c_filmography": [
+      {
+        "characterName": "Buzz Lightyear",
+        "movie": [
+          "tt0120363"
+        ]
+      }
+    ],
+    "c_height": "5\u0027 10½",
+    "name": "Tim Allen",
+    "primaryPhoto": {
+      "image": {
+        "height": 254,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BMTI5ODY0NTAwOF5BMl5BanBnXkFtZTcwOTI3NjQxMw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "thumbnails": [
+          {
+            "height": 254,
+            "url": "https://a.mktgcdn.com/p-sandbox/gsdpOTJWL3OMup5vw-GhZnhVTg5N2qk7fawN0zhs5kA/182x254.jpg",
+            "width": 182
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/gsdpOTJWL3OMup5vw-GhZnhVTg5N2qk7fawN0zhs5kA/182x254.jpg",
+        "width": 182
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

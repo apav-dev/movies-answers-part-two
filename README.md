@@ -1,10 +1,28 @@
 # Building Modern Search with Yext - Part 2
 
-This repo is used for the Coding Clinic: Getting Started With Answers for Developers webinar on 2/24/22. The ```main``` branch contains the completed project while the ```webinar``` branch contains the code used at the beginning of the webinar.
+This repo contains the final version of the project described in [Building Modern Search with Yext: Part 2 - Expanding Search Capabilities](https://dev.to/yext/building-modern-search-with-yext-part-2-expanding-search-capabilities-3clf) 
 
-### Using this Repo
-To utilze this code, you would need to be sure to build the backend described in the guide. If you have copied the configuration, replace the ```apiKey``` in ```answersHeadlessConfig.ts``` with your Answers API Key. 
-NOTE: If you are using a Yext production account rather than a sandbox account, remove the ```endpoints``` field.
+The ```main``` branch contains the completed project while the ```webinar``` branch contains the code used at the beginning of the [Getting Started with Answers for Developers](https://www.youtube.com/watch?v=HLWLbJICgiI) webinar from 2/24/2022.
+
+### Cloning this Project
+
+If you want to clone this project you will need a Yext account with the same Knowledge Graph and Answers Experience used in the blog and webinar. Follow the steps below to copy the account template into your Yext account.
+
+#### 1. Apply the Account Template
+```bash
+yext init 
+yext resources apply account-template/
+```
+NOTE: use ```yext init -u sandbox``` if using a playground/sandbox account.
+
+These commands require the Yext CLI, which you can install with:
+```bash
+brew install yext
+```
+
+#### 2. Add your Answers Experience Information
+Once you have copied the source account, replace the ```apiKey``` in ```answersHeadlessConfig.ts``` with your Answers API Key. 
+NOTE: If you are using a Yext sandbox account rather than a sandbox account, add the ```endpoints``` field with the sandbox endpoints.
 
 ```jsx
 // answersHeadlessConfig.ts
@@ -13,7 +31,7 @@ import { AnswersHeadlessProvider } from '@yext/answers-headless-react';
 type HeadlessProviderProps = Parameters<typeof AnswersHeadlessProvider>[0];
 
 export const answersHeadlessConfig: HeadlessProviderProps = {
-  apiKey: 'cb8b942209662817e117b4d037e85f6c',
+  apiKey: 'YOUR_API_KEY',
   experienceKey: 'movies-search',
   locale: 'en',
   sessionTrackingEnabled: true,
@@ -35,7 +53,7 @@ export const answersHeadlessConfig: HeadlessProviderProps = {
 };
 ```
 
-### Run the app
+#### 3. Run the app
 - Install the dependencies by running `npm i`
 - To run the app in development mode, run `npm start`
 

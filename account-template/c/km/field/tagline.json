@@ -1,0 +1,14 @@
+{
+  "$id": "c_tagline",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Movie tagline",
+  "displayName": "Tagline",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

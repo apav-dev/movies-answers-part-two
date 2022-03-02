@@ -1,0 +1,53 @@
+{
+  "$id": "nm0005098",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Chris Klein was born in Hinsdale, Illinois, on March 14, 1979, to Terese (Bergen), a kindergarten teacher, and Fred Klein, an engineer. He is of German, Irish, and English descent. After spending the first thirteen years of his life there, he moved with his family to Nebraska. It was while he was in high school that Klein was discovered by director Alexander Payne, who was busy casting his upcoming film, Election. Klein won the role of Paul Metzler in Payne\u0027s film, which opened to enthusiastic reviews. As Paul, Klein played the dim but sweet football player persuaded by Matthew Broderick\u0027s Jim McAllister to run against the unopposed Tracy Flick (Reese Witherspoon) in the school\u0027s student council election. The film was released in April 1999 to positive reviews. Soon after, Klein found a steady amount of work in the film industry while briefly attending TCU, where he studied theater and was a member of the Lambda Chi Alpha fraternity. He was next seen in American Pie, which opened on July 9, 1999, and was a box office success. Klein reprised his American Pie role in American Pie 2 and American Reunion. In 2002, Klein had a role in the Mel Gibson Vietnam War film, We Were Soldiers. Klein has also appeared in several teen movies, including Just Friends (2005), American Dreamz (2006). In 2014, Klein was cast as an American pilot in the Damien Lay film The Uberkanone. He co-starred in the 2014 comedy indie film Authors Anonymous with Kaley Cuoco.",
+    "c_birthDate": "1979-03-14",
+    "c_birthPlace": "Hinsdale, Illinois, USA",
+    "c_filmography": [
+      {
+        "characterName": "Chris \"Oz\" Ostreicher",
+        "movie": [
+          "tt0163651"
+        ]
+      }
+    ],
+    "c_height": "6\u00271",
+    "name": "Chris Klein",
+    "primaryPhoto": {
+      "image": {
+        "height": 1623,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Chris_Klein_2012.jpg",
+        "thumbnails": [
+          {
+            "height": 1623,
+            "url": "https://a.mktgcdn.com/p-sandbox/NhcOJ1N76x0F4szui2Q5JRaZCobnTFYg9Wrz_C8-rMg/1159x1623.jpg",
+            "width": 1159
+          },
+          {
+            "height": 867,
+            "url": "https://a.mktgcdn.com/p-sandbox/NhcOJ1N76x0F4szui2Q5JRaZCobnTFYg9Wrz_C8-rMg/619x867.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/NhcOJ1N76x0F4szui2Q5JRaZCobnTFYg9Wrz_C8-rMg/321x450.jpg",
+            "width": 321
+          },
+          {
+            "height": 274,
+            "url": "https://a.mktgcdn.com/p-sandbox/NhcOJ1N76x0F4szui2Q5JRaZCobnTFYg9Wrz_C8-rMg/196x274.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/NhcOJ1N76x0F4szui2Q5JRaZCobnTFYg9Wrz_C8-rMg/1159x1623.jpg",
+        "width": 1159
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

@@ -1,0 +1,38 @@
+{
+  "$id": "nm0000569",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "A tall, wafer thin, delicate beauty, Gwyneth Kate Paltrow was born in Los Angeles, the daughter of noted producer and director Bruce Paltrow and Tony Award-winning actress Blythe Danner. Her father was from a Jewish family, while her mother is of mostly German descent. When Gwyneth was eleven, the family moved to Massachusetts, where her father began working in summer stock productions in the Berkshires. It was here that she received her early acting training under the tutelage of her parents. She graduated from the all-girls Spence School in New York City and moved to California where she attended the UC Santa Barbara, majoring in Art History. She soon quit, realizing it was not her passion. She made her film debut with a small part in Shout (1991) and for the next five years had featured roles in a mixed bag of film fare that included Flesh and Bone (1993); Mrs. Parker and the Vicious Circle (1994); Seven (1995); Jefferson in Paris (1995); Moonlight and Valentino (1995); and The Pallbearer (1996). It was her performance in the title role of Emma Woodhouse in Emma (1996) that led to her being offered the role of Viola in Shakespeare in Love (1998), for which she was awarded the Golden Globe, Screen Actors Guild and Academy Awards for Best Actress in a Leading Role. Her roles have also included The Royal Tenenbaums (2001), Shallow Hal (2001), Sky Captain and the World of Tomorrow (2004), Iron Man (2008), Two Lovers (2008), and Country Strong (2010). She has two children with her former husband, English musician Chris Martin.",
+    "c_birthDate": "1972-09-27",
+    "c_birthPlace": "Los Angeles, California, USA",
+    "c_filmography": [
+      {
+        "characterName": "Marge Sherwood",
+        "movie": [
+          "tt0134119"
+        ]
+      }
+    ],
+    "c_height": "5\u0027 9",
+    "name": "Gwyneth Paltrow",
+    "primaryPhoto": {
+      "image": {
+        "height": 254,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BNzIxOTQ1NTU1OV5BMl5BanBnXkFtZTcwMTQ4MDY0Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "thumbnails": [
+          {
+            "height": 254,
+            "url": "https://a.mktgcdn.com/p-sandbox/Exc_Pq4xXXNdsUl-cetoRozPmmdR16nw3mjcMzsJMv4/182x254.jpg",
+            "width": 182
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/Exc_Pq4xXXNdsUl-cetoRozPmmdR16nw3mjcMzsJMv4/182x254.jpg",
+        "width": 182
+      }
+    }
+  },
+  "entityType": "ce_actor",
+  "folder": "yext/root",
+  "labels": []
+}

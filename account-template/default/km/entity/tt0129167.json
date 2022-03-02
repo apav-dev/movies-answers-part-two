@@ -1,0 +1,71 @@
+{
+  "$id": "tt0129167",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Sci-Fi"
+    ],
+    "c_mpaRating": "PG",
+    "c_poster": {
+      "height": 1120,
+      "sourceUrl": "https://a.mktgcdn.com/p-sandbox/Ud2gmr12ddhcRtVZ5Hv-GHaxhvclbQTWJbl07F1QGIs/800x1200.jpg",
+      "thumbnails": [
+        {
+          "height": 1120,
+          "url": "https://a.mktgcdn.com/p-sandbox/CVHIn7LeQBSoUyENweT9EbEnYRhH-ZQ4mwsQzYpJSF0/800x1120.jpg",
+          "width": 800
+        },
+        {
+          "height": 867,
+          "url": "https://a.mktgcdn.com/p-sandbox/CVHIn7LeQBSoUyENweT9EbEnYRhH-ZQ4mwsQzYpJSF0/619x867.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/CVHIn7LeQBSoUyENweT9EbEnYRhH-ZQ4mwsQzYpJSF0/321x450.jpg",
+          "width": 321
+        },
+        {
+          "height": 274,
+          "url": "https://a.mktgcdn.com/p-sandbox/CVHIn7LeQBSoUyENweT9EbEnYRhH-ZQ4mwsQzYpJSF0/196x274.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/CVHIn7LeQBSoUyENweT9EbEnYRhH-ZQ4mwsQzYpJSF0/800x1120.jpg",
+      "width": 800
+    },
+    "c_runtime": "87",
+    "c_stars": [
+      {
+        "actor": [
+          "nm0001065"
+        ],
+        "role": "Dean McCoppin"
+      },
+      {
+        "actor": [
+          "nm0000098"
+        ],
+        "role": "Annie Hughes"
+      },
+      {
+        "actor": [
+          "nm0547349"
+        ],
+        "role": "Hogarth Hughes"
+      }
+    ],
+    "c_tagline": "It came from outer space!",
+    "description": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
+    "name": "The Iron Giant"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}
