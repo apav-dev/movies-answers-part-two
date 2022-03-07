@@ -5,7 +5,7 @@ module.exports = {
     extend: {
       fontFamily: {
         display: [ 'Bebas Neue'],
-        body: ['Roberto Serif']
+        body: ['Roberto']
       },
       colors: {
         'slate': '#0f2027',
